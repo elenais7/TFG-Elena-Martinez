@@ -1,0 +1,1653 @@
+- model: blawx.ruledoc
+  pk: 7
+  fields:
+    ruledoc_name: Crimes Committed
+    rule_text: "Crimes Committed\r\n\r\nA person has been accused of sexual assault
+      if\r\n1.\r\n  (1)  the person has committed an act of sexual nature \r\n    (a)
+      it has been committed with the use of violence\r\n    (b) it has been committed
+      with the use of intimidation\r\n    (c) it has been committed taking advantage
+      of the situation\r\n      (i) because the person held a position of superiority\r\n
+      \     (ii) because the victim was in a vulnerable position\r\n    (d) it has
+      committed when the victim had a specific condition\r\n      (i) because they
+      were unable to act independently\r\n      (ii) because their mental situation
+      was abused\r\n      (iii) because their will was overridden\r\n  (2) it happened
+      without the victim's consent.\r\n\r\nA person has been accused of robbery if\r\n2.\r\n\r\nA
+      person has been accused of assault if\r\n3."
+    akoma_ntoso: <?xml version="1.0" encoding="UTF-8"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><act><preface><p
+      class="title"><shortTitle>Crimes Committed</shortTitle></p></preface><body><section
+      eId="sec_1"><num>1</num><heading>A person has been accused of sexual assault
+      if</heading><subSection eId="sec_1__subsec_1"><num>1</num><intro><p>the person
+      has committed an act of sexual nature</p></intro><paragraph eId="sec_1__subsec_1__para_a"><num>a</num><content><p>it
+      has been committed with the use of violence</p></content></paragraph><paragraph
+      eId="sec_1__subsec_1__para_b"><num>b</num><content><p>it has been committed
+      with the use of intimidation</p></content></paragraph><paragraph eId="sec_1__subsec_1__para_c"><num>c</num><intro><p>it
+      has been committed taking advantage of the situation</p></intro><subParagraph
+      eId="sec_1__subsec_1__para_c__subpara_i"><num>i</num><content><p>because the
+      person held a position of superiority</p></content></subParagraph><subParagraph
+      eId="sec_1__subsec_1__para_c__subpara_ii"><num>ii</num><content><p>because the
+      victim was in a vulnerable position</p></content></subParagraph></paragraph><paragraph
+      eId="sec_1__subsec_1__para_d"><num>d</num><intro><p>it has committed when the
+      victim had a specific condition</p></intro><subParagraph eId="sec_1__subsec_1__para_d__subpara_i"><num>i</num><content><p>because
+      they were unable to act independently</p></content></subParagraph><subParagraph
+      eId="sec_1__subsec_1__para_d__subpara_ii"><num>ii</num><content><p>because their
+      mental situation was abused</p></content></subParagraph><subParagraph eId="sec_1__subsec_1__para_d__subpara_iii"><num>iii</num><content><p>because
+      their will was overridden</p></content></subParagraph></paragraph></subSection><subSection
+      eId="sec_1__subsec_2"><num>2</num><content><p>it happened without the victim's
+      consent.</p></content></subSection></section><section eId="sec_2"><num>2</num><heading>A
+      person has been accused of robbery if</heading></section><section eId="sec_3"><num>3</num><heading>A
+      person has been accused of assault if</heading></section></body></act></akomaNtoso>
+    navtree: '<nav class="column">
+
+      <div class="lawpart act"><div class="form-check"><input class="form-check-input"
+      type="radio" name="section" id="root_section" checked><div class="lawtext"><i
+      class="bi bi-caret-right" data-bs-toggle="collapse" data-bs-target="#root"></i>Crimes
+      Committed</div></div></div><div class="subparts collapse" id="root"><div class="lawpart
+      section"><div class="form-check"><input class="form-check-input" type="radio"
+      name="section" id="sec_1_section"><div class="lawtext"><i class="bi bi-caret-right"
+      data-bs-toggle="collapse" data-bs-target="#sec_1"></i><num>1</num>A person has
+      been accused of sexual assault if</div></div></div><div class="subparts collapse"
+      id="sec_1"><div class="lawpart subSection"><div class="form-check"><input class="form-check-input"
+      type="radio" name="section" id="sec_1__subsec_1_section"><div class="lawtext"><i
+      class="bi bi-caret-right" data-bs-toggle="collapse" data-bs-target="#sec_1__subsec_1"></i><num>1</num><intro
+      xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><p>the person has committed
+      an act of sexual nature</p></intro></div></div></div><div class="subparts collapse"
+      id="sec_1__subsec_1"><div class="lawpart paragraph"><div class="form-check"><input
+      class="form-check-input" type="radio" name="section" id="sec_1__subsec_1__para_a_section"><div
+      class="lawtext"><num>a</num> <content xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><p>it
+      has been committed with the use of violence</p></content></div></div></div><div
+      class="lawpart paragraph"><div class="form-check"><input class="form-check-input"
+      type="radio" name="section" id="sec_1__subsec_1__para_b_section"><div class="lawtext"><num>b</num>
+      <content xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><p>it has
+      been committed with the use of intimidation</p></content></div></div></div><div
+      class="lawpart paragraph"><div class="form-check"><input class="form-check-input"
+      type="radio" name="section" id="sec_1__subsec_1__para_c_section"><div class="lawtext"><i
+      class="bi bi-caret-right" data-bs-toggle="collapse" data-bs-target="#sec_1__subsec_1__para_c"></i><num>c</num><intro
+      xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><p>it has been committed
+      taking advantage of the situation</p></intro></div></div></div><div class="subparts
+      collapse" id="sec_1__subsec_1__para_c"><div class="lawpart subParagraph"><div
+      class="form-check"><input class="form-check-input" type="radio" name="section"
+      id="sec_1__subsec_1__para_c__subpara_i_section"><div class="lawtext"><num>i</num>
+      <content xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><p>because
+      the person held a position of superiority</p></content></div></div></div><div
+      class="lawpart subParagraph"><div class="form-check"><input class="form-check-input"
+      type="radio" name="section" id="sec_1__subsec_1__para_c__subpara_ii_section"><div
+      class="lawtext"><num>ii</num> <content xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><p>because
+      the victim was in a vulnerable position</p></content></div></div></div></div><div
+      class="lawpart paragraph"><div class="form-check"><input class="form-check-input"
+      type="radio" name="section" id="sec_1__subsec_1__para_d_section"><div class="lawtext"><i
+      class="bi bi-caret-right" data-bs-toggle="collapse" data-bs-target="#sec_1__subsec_1__para_d"></i><num>d</num><intro
+      xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><p>it has committed
+      when the victim had a specific condition</p></intro></div></div></div><div class="subparts
+      collapse" id="sec_1__subsec_1__para_d"><div class="lawpart subParagraph"><div
+      class="form-check"><input class="form-check-input" type="radio" name="section"
+      id="sec_1__subsec_1__para_d__subpara_i_section"><div class="lawtext"><num>i</num>
+      <content xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><p>because
+      they were unable to act independently</p></content></div></div></div><div class="lawpart
+      subParagraph"><div class="form-check"><input class="form-check-input" type="radio"
+      name="section" id="sec_1__subsec_1__para_d__subpara_ii_section"><div class="lawtext"><num>ii</num>
+      <content xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><p>because
+      their mental situation was abused</p></content></div></div></div><div class="lawpart
+      subParagraph"><div class="form-check"><input class="form-check-input" type="radio"
+      name="section" id="sec_1__subsec_1__para_d__subpara_iii_section"><div class="lawtext"><num>iii</num>
+      <content xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><p>because
+      their will was overridden</p></content></div></div></div></div></div><div class="lawpart
+      subSection"><div class="form-check"><input class="form-check-input" type="radio"
+      name="section" id="sec_1__subsec_2_section"><div class="lawtext"><num>2</num>
+      <content xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><p>it happened
+      without the victim''s consent.</p></content></div></div></div></div><div class="lawpart
+      section"><div class="form-check"><input class="form-check-input" type="radio"
+      name="section" id="sec_2_section"><div class="lawtext"><i class="bi bi-caret-right"
+      data-bs-toggle="collapse" data-bs-target="#sec_2"></i><num>2</num>A person has
+      been accused of robbery if</div></div></div><div class="subparts collapse" id="sec_2"></div><div
+      class="lawpart section"><div class="form-check"><input class="form-check-input"
+      type="radio" name="section" id="sec_3_section"><div class="lawtext"><i class="bi
+      bi-caret-right" data-bs-toggle="collapse" data-bs-target="#sec_3"></i><num>3</num>A
+      person has been accused of assault if</div></div></div><div class="subparts
+      collapse" id="sec_3"></div></div></nav>'
+    scasp_encoding: ''
+    tutorial: ''
+    owner: 6
+    published: false
+- model: blawx.workspace
+  pk: 64
+  fields:
+    ruledoc: 7
+    workspace_name: root_section
+    xml_content: <xml xmlns="https://developers.google.com/blockly/xml"></xml>
+    scasp_encoding: ''
+- model: blawx.workspace
+  pk: 65
+  fields:
+    ruledoc: 7
+    workspace_name: sec_1__subsec_1__para_a__subpara_i_section
+    xml_content: ''
+    scasp_encoding: ''
+- model: blawx.workspace
+  pk: 66
+  fields:
+    ruledoc: 7
+    workspace_name: sec_1__subsec_2_section
+    xml_content: <xml xmlns="https://developers.google.com/blockly/xml"><block type="unattributed_fact"
+      id="]d%k+InKpYT2cPuh9V*y" x="7" y="-525"><statement name="statements"><block
+      type="new_attribute_declaration" id="O[id7cIY1mP.M9r%=KyJ"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="sexual_intercourse" category_list="[[&quot;person&quot;,&quot;person&quot;],[&quot;sexual_intercourse&quot;,&quot;sexual_intercourse&quot;]]"
+      attribute_type="boolean" attribute_list="[[&quot;true / false&quot;,&quot;boolean&quot;],[&quot;number&quot;,&quot;number&quot;],[&quot;date&quot;,&quot;date&quot;],[&quot;time&quot;,&quot;time&quot;],[&quot;datetime&quot;,&quot;datetime&quot;],[&quot;duration&quot;,&quot;duration&quot;],[&quot;list&quot;,&quot;list&quot;],[&quot;person&quot;,&quot;person&quot;],[&quot;sexual_intercourse&quot;,&quot;sexual_intercourse&quot;]]"></mutation><field
+      name="category_name">sexual_intercourse</field><field name="attribute_name">consent</field><field
+      name="attribute_type">boolean</field><field name="order">ov</field><field name="prefix"></field><field
+      name="first_element">object</field><field name="infix">'s attribute name is</field><field
+      name="second_element">value</field><field name="postfix">happened with the victim's
+      consent</field><next><block type="new_attribute_declaration" id=")PFgb1`=9NCH6d+|.Prl"><mutation
+      xmlns="http://www.w3.org/1999/xhtml" category_name="sexual_intercourse" category_list="[[&quot;person&quot;,&quot;person&quot;],[&quot;sexual_intercourse&quot;,&quot;sexual_intercourse&quot;]]"
+      attribute_type="boolean" attribute_list="[[&quot;true / false&quot;,&quot;boolean&quot;],[&quot;number&quot;,&quot;number&quot;],[&quot;date&quot;,&quot;date&quot;],[&quot;time&quot;,&quot;time&quot;],[&quot;datetime&quot;,&quot;datetime&quot;],[&quot;duration&quot;,&quot;duration&quot;],[&quot;list&quot;,&quot;list&quot;],[&quot;person&quot;,&quot;person&quot;],[&quot;sexual_intercourse&quot;,&quot;sexual_intercourse&quot;]]"></mutation><field
+      name="category_name">sexual_intercourse</field><field name="attribute_name">jurisprudence</field><field
+      name="attribute_type">boolean</field><field name="order">ov</field><field name="prefix"></field><field
+      name="first_element">object</field><field name="infix">'s attribute name is</field><field
+      name="second_element">value</field><field name="postfix">'s consent has jurisprudence
+      in favor</field></block></next></block></statement></block><block type="attributed_rule"
+      id="=|ip?w-]pwBCfEK.TL-p" x="590" y="-539"><field name="defeasible">FALSE</field><field
+      name="inapplicable">FALSE</field><statement name="conditions"><block type="new_object_category"
+      id="MU25{tPJ$TNcCx:/U6/N"><mutation xmlns="http://www.w3.org/1999/xhtml" category_name="sexual_intercourse"
+      category_list="[[&quot;person&quot;,&quot;person&quot;],[&quot;sexual_intercourse&quot;,&quot;sexual_intercourse&quot;]]"></mutation><field
+      name="category_name">sexual_intercourse</field><value name="object"><block type="variable"
+      id="ruaNF43p=Sf$c[W*,hn/"><field name="variable_name">Event</field></block></value><next><block
+      type="logical_negation" id="E~VFfA6Ta^*wGo=5)q]="><statement name="negated_statement"><block
+      type="unary_attribute_selector" id="Ca{OtmA`d=/y25Qq^=-n"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="consent" attributetype="boolean"></mutation><field name="prefix"></field><field
+      name="postfix">happened with the victim's consent</field><value name="first_element"><block
+      type="variable" id="%rBkSsw15iq/!]{8;7[J"><field name="variable_name">Event</field></block></value></block></statement><next><block
+      type="new_object_category" id="!G=F~0*]BJ~aHm@x?.j7"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person" category_list="[[&quot;person&quot;,&quot;person&quot;],[&quot;sexual_intercourse&quot;,&quot;sexual_intercourse&quot;]]"></mutation><field
+      name="category_name">person</field><value name="object"><block type="variable"
+      id="llidt7^+2zD$,a{Z;UG-"><field name="variable_name">Subject</field></block></value><next><block
+      type="attribute_selector" id="[NM#J--z;%lc=-Ek-kTl"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="alleged_offender" attributetype="person" attributeorder="ov"></mutation><field
+      name="prefix"> the alleged offender in</field><field name="infix">is</field><field
+      name="postfix"></field><value name="first_element"><block type="variable" id=":c{Vy,ObLNVOOK%#Dw#Q"><field
+      name="variable_name">Event</field></block></value><value name="second_element"><block
+      type="variable" id="eh1n9gbVxMB)4$THkMD/"><field name="variable_name">Subject</field></block></value></block></next></block></next></block></next></block></statement><value
+      name="source"><block type="doc_selector" id="B]?Qnre,D{Vm3ofH!|Am"><mutation
+      xmlns="http://www.w3.org/1999/xhtml" section_reference="sec_1__subsec_2_section"></mutation><field
+      name="doc_part_name">CC 1.2</field></block></value><statement name="conclusion"><block
+      type="unary_attribute_selector" id="/@`L_faVq/y:%Od~12A="><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="guilty" attributetype="boolean"></mutation><field name="prefix"></field><field
+      name="postfix">has committed a crime of sexual assault</field><value name="first_element"><block
+      type="variable" id="##+_TtBUyz;LsfP$1oG7"><field name="variable_name">Subject</field></block></value></block></statement></block><block
+      type="unattributed_rule" id="P$H7!w8:oE.LHEoV+M+-" x="2" y="-310"><statement
+      name="conditions"><block type="new_object_category" id="VqTj+JrC}omzgmHBHPDD"><mutation
+      xmlns="http://www.w3.org/1999/xhtml" category_name="sexual_intercourse" category_list="[[&quot;person&quot;,&quot;person&quot;],[&quot;sexual_intercourse&quot;,&quot;sexual_intercourse&quot;]]"></mutation><field
+      name="category_name">sexual_intercourse</field><value name="object"><block type="variable"
+      id="lG:9IQE]{iX#4r,+0dY."><field name="variable_name">Event</field></block></value><next><block
+      type="logical_negation" id="dKI]~N5#trR0+oV_NsQM"><statement name="negated_statement"><block
+      type="unary_attribute_selector" id="SY)x#m~(l0DN=d6tfG_2"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="jurisprudence" attributetype="boolean"></mutation><field name="prefix"></field><field
+      name="postfix">'s consent has jurisprudence in favor</field><value name="first_element"><block
+      type="variable" id="H`i*mXDvXeEcS34wm)E/"><field name="variable_name">Event</field></block></value></block></statement></block></next></block></statement><statement
+      name="conclusion"><block type="logical_negation" id="n2wFei#5UN{Ko`OLsw/a"><statement
+      name="negated_statement"><block type="unary_attribute_selector" id="![EEGjC[Rl=RCa6ixT!@"><mutation
+      xmlns="http://www.w3.org/1999/xhtml" attributename="consent" attributetype="boolean"></mutation><field
+      name="prefix"></field><field name="postfix">happened with the victim's consent</field><value
+      name="first_element"><block type="variable" id="o5/t~eHoD,-cR^jAk;iv"><field
+      name="variable_name">Event</field></block></value></block></statement></block></statement></block></xml>
+    scasp_encoding: "blawx_attribute(sexual_intercourse,consent,boolean).\nblawx_attribute_nlg(consent,not_applicable,\"\",not_applicable,\"happened
+      with the victim's consent\").\n:- dynamic consent/1.\n#pred consent(X) :: '@(X)
+      happened with the victim\\'s consent'.\n#pred holds(user,consent,X) :: 'it is
+      provided as a fact that @(X) happened with the victim\\'s consent'.\n#pred holds(user,-consent,X)
+      :: 'it is provided as a fact that it is not the case that @(X) happened with
+      the victim\\'s consent'.\n#pred holds(Z,consent,X) :: 'the conclusion in @(Z)
+      that @(X) happened with the victim\\'s consent holds'.\n#pred holds(Z,-consent,X)
+      :: 'the conclusion in @(Z) that it is not the case that @(X) happened with the
+      victim\\'s consent holds'.\n#pred according_to(Z,consent,X) :: 'according to
+      @(Z), @(X) happened with the victim\\'s consent'.\n#pred according_to(Z,-consent,X)
+      :: 'according to @(Z), it is not the case that @(X) happened with the victim\\'s
+      consent'.\n#pred blawx_defeated(Z,consent,X) :: 'the conclusion in @(Z) that
+      @(X) happened with the victim\\'s consent is defeated'.\n#pred blawx_defeated(Z,-consent,X)
+      :: 'the conclusion in @(Z) that @(X) happened with the victim\\'s consent is
+      defeated'.\n#pred blawx_initially(consent(X)) :: 'that @(X) happened with the
+      victim\\'s consent holds initially'.\n#pred blawx_initially(-consent(X)) ::
+      'that it is not the case that @(X) happened with the victim\\'s consent holds
+      initially'.\n#pred blawx_ultimately(consent(X)) :: 'that @(X) happened with
+      the victim\\'s consent holds ultimately'.\n#pred blawx_ultimately(-consent(X))
+      :: 'that it is not the case that @(X) happened with the victim\\'s consent holds
+      ultimately'.\n#pred blawx_as_of(consent(X),T) :: 'that @(X) happened with the
+      victim\\'s consent holds at @(T)'.\n#pred blawx_as_of(-consent(X),T) :: 'that
+      it is not the case that @(X) happened with the victim\\'s consent holds at @(T)'.\n#pred
+      blawx_during(T1,consent(X),T2) :: 'that @(X) happened with the victim\\'s consent
+      held between @(T1) and @(T2)'.\n#pred blawx_during(T1,-consent(X),T2) :: 'that
+      it is not the case that @(X) happened with the victim\\'s consent held between
+      @(T1) and @(T2)'.\n#pred blawx_becomes(consent(X),T) :: 'that @(X) happened
+      with the victim\\'s consent became true at @(T)'.\n#pred blawx_becomes(-consent(X),T)
+      :: 'that it is not the case that @(X) happened with the victim\\'s consent became
+      true at @(T)'.\n#pred blawx_not_interrupted(Start,consent(X),End) :: '@(X) happened
+      with the victim\\'s consent remained the case between @(Start) and @(End)'.\n#pred
+      blawx_not_interrupted(Start,-consent(X),End) :: 'it is not the case that @(X)
+      happened with the victim\\'s consent remained the case between @(Start) and
+      @(End)'.\nblawx_not_interrupted(datetime(Start),consent(X),datetime(End)) :-
+      Start \\= bot, End \\= eot, findall(Time,blawx_becomes(-consent(X),datetime(Time)),Times),blawx_list_not_between(Times,Start,End).\nblawx_not_interrupted(datetime(Start),-consent(X),datetime(End))
+      :- Start \\= bot, End \\= eot, findall(Time,blawx_becomes(consent(X),datetime(Time)),Times),blawx_list_not_between(Times,Start,End).\nblawx_not_interrupted(datetime(bot),consent(X),datetime(End))
+      :- End \\= eot, findall(Time,blawx_becomes(-consent(X),datetime(Time)),Times),blawx_list_not_before(Times,End).\nblawx_not_interrupted(datetime(bot),-consent(X),datetime(End))
+      :- End \\= eot, findall(Time,blawx_becomes(consent(X),datetime(Time)),Times),blawx_list_not_before(Times,End).\nblawx_not_interrupted(datetime(Start),consent(X),datetime(eot))
+      :- Start \\= bot, findall(Time,blawx_becomes(-consent(X),datetime(Time)),Times),blawx_list_not_after(Times,Start).\nblawx_not_interrupted(datetime(Start),-consent(X),datetime(eot))
+      :- Start \\= bot, findall(Time,blawx_becomes(consent(X),datetime(Time)),Times),blawx_list_not_after(Times,Start).\nblawx_not_interrupted(datetime(bot),consent(X),datetime(eot))
+      :- blawx_initially(consent(X)), blawx_ultimately(consent(X)), findall(Time,blawx_becomes(-consent(X),datetime(Time)),[]).\nblawx_not_interrupted(datetime(bot),-consent(X),datetime(eot))
+      :- blawx_initially(-consent(X)), blawx_ultimately(-consent(X)), findall(Time,blawx_becomes(consent(X),datetime(Time)),[]).\nblawx_as_of(consent(X),datetime(Time))
+      :- blawx_initially(consent(X)), BeforeT #< Time,blawx_not_interrupted(datetime(bot),consent(X),datetime(BeforeT)).\nblawx_as_of(consent(X),datetime(Time))
+      :- blawx_becomes(consent(X),datetime(BeforeT)),BeforeT #< Time,blawx_not_interrupted(datetime(BeforeT),consent(X),datetime(Time)).\nblawx_as_of(-consent(X),datetime(Time))
+      :- blawx_initially(-consent(X)), BeforeT #< Time,blawx_not_interrupted(datetime(bot),-consent(X),datetime(BeforeT)).\nblawx_as_of(-consent(X),datetime(Time))
+      :- blawx_becomes(-consent(X),datetime(BeforeT)),BeforeT #< Time,blawx_not_interrupted(datetime(BeforeT),-consent(X),datetime(Time)).\nblawx_during(datetime(Start),consent(X),datetime(End))
+      :- blawx_becomes(consent(X),datetime(Start)), blawx_becomes(-consent(X),datetime(End)),
+      Start #< End, blawx_not_interrupted(datetime(Start),consent(X),datetime(End)).\nblawx_during(datetime(bot),consent(X),datetime(End))
+      :- blawx_initially(consent(X)), blawx_becomes(-consent(X),datetime(End)), blawx_not_interrupted(datetime(bot),consent(X),datetime(End)).\nblawx_during(datetime(Start),consent(X),datetime(eot))
+      :- blawx_ultimately(consent(X)), blawx_becomes(-consent(X),datetime(Start)),
+      blawx_not_interrupted(datetime(Start),consent(X),datetime(eot)).\nblawx_during(datetime(bot),consent(X),datetime(eot))
+      :- blawx_initially(consent(X)), blawx_ultimately(consent(X)), blawx_becomes(-consent(X),datetime(Start)),
+      blawx_not_interrupted(datetime(bot),consent(X),datetime(eot)).\nblawx_during(datetime(Start),-consent(X),datetime(End))
+      :- blawx_becomes(-consent(X),datetime(Start)), blawx_becomes(consent(X),datetime(End)),
+      Start #< End, blawx_not_interrupted(datetime(Start),-consent(X),datetime(End)).\nblawx_during(datetime(bot),-consent(X),datetime(End))
+      :- blawx_initially(-consent(X)), blawx_becomes(consent(X),datetime(End)), blawx_not_interrupted(datetime(bot),-consent(X),datetime(End)).\nblawx_during(datetime(Start),-consent(X),datetime(eot))
+      :- blawx_ultimately(-consent(X)), blawx_becomes(consent(X),datetime(Start)),
+      blawx_not_interrupted(datetime(Start),-consent(X),datetime(eot)).\nblawx_during(datetime(bot),-consent(X),datetime(eot))
+      :- blawx_initially(-consent(X)), blawx_ultimately(-consent(X)), blawx_becomes(-consent(X),datetime(Start)),
+      blawx_not_interrupted(datetime(bot),-consent(X),datetime(eot)).\nblawx_attribute(sexual_intercourse,jurisprudence,boolean).\nblawx_attribute_nlg(jurisprudence,not_applicable,\"\",not_applicable,\"'s
+      consent has jurisprudence in favor\").\n:- dynamic jurisprudence/1.\n#pred jurisprudence(X)
+      :: '@(X) \\'s consent has jurisprudence in favor'.\n#pred holds(user,jurisprudence,X)
+      :: 'it is provided as a fact that @(X) \\'s consent has jurisprudence in favor'.\n#pred
+      holds(user,-jurisprudence,X) :: 'it is provided as a fact that it is not the
+      case that @(X) \\'s consent has jurisprudence in favor'.\n#pred holds(Z,jurisprudence,X)
+      :: 'the conclusion in @(Z) that @(X) \\'s consent has jurisprudence in favor
+      holds'.\n#pred holds(Z,-jurisprudence,X) :: 'the conclusion in @(Z) that it
+      is not the case that @(X) \\'s consent has jurisprudence in favor holds'.\n#pred
+      according_to(Z,jurisprudence,X) :: 'according to @(Z), @(X) \\'s consent has
+      jurisprudence in favor'.\n#pred according_to(Z,-jurisprudence,X) :: 'according
+      to @(Z), it is not the case that @(X) \\'s consent has jurisprudence in favor'.\n#pred
+      blawx_defeated(Z,jurisprudence,X) :: 'the conclusion in @(Z) that @(X) \\'s
+      consent has jurisprudence in favor is defeated'.\n#pred blawx_defeated(Z,-jurisprudence,X)
+      :: 'the conclusion in @(Z) that @(X) \\'s consent has jurisprudence in favor
+      is defeated'.\n#pred blawx_initially(jurisprudence(X)) :: 'that @(X) \\'s consent
+      has jurisprudence in favor holds initially'.\n#pred blawx_initially(-jurisprudence(X))
+      :: 'that it is not the case that @(X) \\'s consent has jurisprudence in favor
+      holds initially'.\n#pred blawx_ultimately(jurisprudence(X)) :: 'that @(X) \\'s
+      consent has jurisprudence in favor holds ultimately'.\n#pred blawx_ultimately(-jurisprudence(X))
+      :: 'that it is not the case that @(X) \\'s consent has jurisprudence in favor
+      holds ultimately'.\n#pred blawx_as_of(jurisprudence(X),T) :: 'that @(X) \\'s
+      consent has jurisprudence in favor holds at @(T)'.\n#pred blawx_as_of(-jurisprudence(X),T)
+      :: 'that it is not the case that @(X) \\'s consent has jurisprudence in favor
+      holds at @(T)'.\n#pred blawx_during(T1,jurisprudence(X),T2) :: 'that @(X) \\'s
+      consent has jurisprudence in favor held between @(T1) and @(T2)'.\n#pred blawx_during(T1,-jurisprudence(X),T2)
+      :: 'that it is not the case that @(X) \\'s consent has jurisprudence in favor
+      held between @(T1) and @(T2)'.\n#pred blawx_becomes(jurisprudence(X),T) :: 'that
+      @(X) \\'s consent has jurisprudence in favor became true at @(T)'.\n#pred blawx_becomes(-jurisprudence(X),T)
+      :: 'that it is not the case that @(X) \\'s consent has jurisprudence in favor
+      became true at @(T)'.\n#pred blawx_not_interrupted(Start,jurisprudence(X),End)
+      :: '@(X) \\'s consent has jurisprudence in favor remained the case between @(Start)
+      and @(End)'.\n#pred blawx_not_interrupted(Start,-jurisprudence(X),End) :: 'it
+      is not the case that @(X) \\'s consent has jurisprudence in favor remained the
+      case between @(Start) and @(End)'.\nblawx_not_interrupted(datetime(Start),jurisprudence(X),datetime(End))
+      :- Start \\= bot, End \\= eot, findall(Time,blawx_becomes(-jurisprudence(X),datetime(Time)),Times),blawx_list_not_between(Times,Start,End).\nblawx_not_interrupted(datetime(Start),-jurisprudence(X),datetime(End))
+      :- Start \\= bot, End \\= eot, findall(Time,blawx_becomes(jurisprudence(X),datetime(Time)),Times),blawx_list_not_between(Times,Start,End).\nblawx_not_interrupted(datetime(bot),jurisprudence(X),datetime(End))
+      :- End \\= eot, findall(Time,blawx_becomes(-jurisprudence(X),datetime(Time)),Times),blawx_list_not_before(Times,End).\nblawx_not_interrupted(datetime(bot),-jurisprudence(X),datetime(End))
+      :- End \\= eot, findall(Time,blawx_becomes(jurisprudence(X),datetime(Time)),Times),blawx_list_not_before(Times,End).\nblawx_not_interrupted(datetime(Start),jurisprudence(X),datetime(eot))
+      :- Start \\= bot, findall(Time,blawx_becomes(-jurisprudence(X),datetime(Time)),Times),blawx_list_not_after(Times,Start).\nblawx_not_interrupted(datetime(Start),-jurisprudence(X),datetime(eot))
+      :- Start \\= bot, findall(Time,blawx_becomes(jurisprudence(X),datetime(Time)),Times),blawx_list_not_after(Times,Start).\nblawx_not_interrupted(datetime(bot),jurisprudence(X),datetime(eot))
+      :- blawx_initially(jurisprudence(X)), blawx_ultimately(jurisprudence(X)), findall(Time,blawx_becomes(-jurisprudence(X),datetime(Time)),[]).\nblawx_not_interrupted(datetime(bot),-jurisprudence(X),datetime(eot))
+      :- blawx_initially(-jurisprudence(X)), blawx_ultimately(-jurisprudence(X)),
+      findall(Time,blawx_becomes(jurisprudence(X),datetime(Time)),[]).\nblawx_as_of(jurisprudence(X),datetime(Time))
+      :- blawx_initially(jurisprudence(X)), BeforeT #< Time,blawx_not_interrupted(datetime(bot),jurisprudence(X),datetime(BeforeT)).\nblawx_as_of(jurisprudence(X),datetime(Time))
+      :- blawx_becomes(jurisprudence(X),datetime(BeforeT)),BeforeT #< Time,blawx_not_interrupted(datetime(BeforeT),jurisprudence(X),datetime(Time)).\nblawx_as_of(-jurisprudence(X),datetime(Time))
+      :- blawx_initially(-jurisprudence(X)), BeforeT #< Time,blawx_not_interrupted(datetime(bot),-jurisprudence(X),datetime(BeforeT)).\nblawx_as_of(-jurisprudence(X),datetime(Time))
+      :- blawx_becomes(-jurisprudence(X),datetime(BeforeT)),BeforeT #< Time,blawx_not_interrupted(datetime(BeforeT),-jurisprudence(X),datetime(Time)).\nblawx_during(datetime(Start),jurisprudence(X),datetime(End))
+      :- blawx_becomes(jurisprudence(X),datetime(Start)), blawx_becomes(-jurisprudence(X),datetime(End)),
+      Start #< End, blawx_not_interrupted(datetime(Start),jurisprudence(X),datetime(End)).\nblawx_during(datetime(bot),jurisprudence(X),datetime(End))
+      :- blawx_initially(jurisprudence(X)), blawx_becomes(-jurisprudence(X),datetime(End)),
+      blawx_not_interrupted(datetime(bot),jurisprudence(X),datetime(End)).\nblawx_during(datetime(Start),jurisprudence(X),datetime(eot))
+      :- blawx_ultimately(jurisprudence(X)), blawx_becomes(-jurisprudence(X),datetime(Start)),
+      blawx_not_interrupted(datetime(Start),jurisprudence(X),datetime(eot)).\nblawx_during(datetime(bot),jurisprudence(X),datetime(eot))
+      :- blawx_initially(jurisprudence(X)), blawx_ultimately(jurisprudence(X)), blawx_becomes(-jurisprudence(X),datetime(Start)),
+      blawx_not_interrupted(datetime(bot),jurisprudence(X),datetime(eot)).\nblawx_during(datetime(Start),-jurisprudence(X),datetime(End))
+      :- blawx_becomes(-jurisprudence(X),datetime(Start)), blawx_becomes(jurisprudence(X),datetime(End)),
+      Start #< End, blawx_not_interrupted(datetime(Start),-jurisprudence(X),datetime(End)).\nblawx_during(datetime(bot),-jurisprudence(X),datetime(End))
+      :- blawx_initially(-jurisprudence(X)), blawx_becomes(jurisprudence(X),datetime(End)),
+      blawx_not_interrupted(datetime(bot),-jurisprudence(X),datetime(End)).\nblawx_during(datetime(Start),-jurisprudence(X),datetime(eot))
+      :- blawx_ultimately(-jurisprudence(X)), blawx_becomes(jurisprudence(X),datetime(Start)),
+      blawx_not_interrupted(datetime(Start),-jurisprudence(X),datetime(eot)).\nblawx_during(datetime(bot),-jurisprudence(X),datetime(eot))
+      :- blawx_initially(-jurisprudence(X)), blawx_ultimately(-jurisprudence(X)),
+      blawx_becomes(-jurisprudence(X),datetime(Start)), blawx_not_interrupted(datetime(bot),-jurisprudence(X),datetime(eot)).\n\naccording_to(sec_1__subsec_2_section,guilty,Subject)
+      :- sexual_intercourse(Event),\n-consent(Event),\nperson(Subject),\nalleged_offender(Event,Subject).\n\n%
+      BLAWX CHECK DUPLICATES\nholds(sec_1__subsec_2_section,guilty,Subject) :- according_to(sec_1__subsec_2_section,guilty,Subject).\n\n%
+      BLAWX CHECK DUPLICATES\n  guilty(Subject) :- holds(sec_1__subsec_2_section,guilty,Subject).\n\n-consent(Event)
+      :-\nsexual_intercourse(Event),\n-jurisprudence(Event)."
+- model: blawx.workspace
+  pk: 67
+  fields:
+    ruledoc: 7
+    workspace_name: sec_1__subsec_1_section
+    xml_content: ''
+    scasp_encoding: ''
+- model: blawx.workspace
+  pk: 68
+  fields:
+    ruledoc: 7
+    workspace_name: sec_1_section
+    xml_content: <xml xmlns="https://developers.google.com/blockly/xml"><block type="unattributed_fact"
+      id="tW!z.SRM%NQxG8v%mNji" x="36" y="-740"><statement name="statements"><block
+      type="new_category_declaration" id="=Nv|?s2LImBvsH:F}Sul"><field name="category_name">person</field><field
+      name="prefix"></field><field name="first_element">object</field><field name="postfix">is
+      a person</field><next><block type="new_category_declaration" id="{d29rz-x)8Hos#=VUQl*"><field
+      name="category_name">sexual_intercourse</field><field name="prefix"></field><field
+      name="first_element">object</field><field name="postfix">is a sexual intercourse</field><next><block
+      type="new_attribute_declaration" id="c52alI[}?Qu$5#$l5jUC"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="sexual_intercourse" attribute_type="person"></mutation><field
+      name="category_name">sexual_intercourse</field><field name="attribute_name">alleged_offender</field><field
+      name="attribute_type">person</field><field name="order">ov</field><field name="prefix">
+      the alleged offender in</field><field name="first_element">object</field><field
+      name="infix">is</field><field name="second_element">value</field><field name="postfix"></field><next><block
+      type="new_attribute_declaration" id="[r9cyhJ@G%L7{u1~xXDE"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="sexual_intercourse" attribute_type="person"></mutation><field
+      name="category_name">sexual_intercourse</field><field name="attribute_name">victim</field><field
+      name="attribute_type">person</field><field name="order">ov</field><field name="prefix">the
+      victim in</field><field name="first_element">object</field><field name="infix">is</field><field
+      name="second_element">value</field><field name="postfix"></field><next><block
+      type="new_attribute_declaration" id="udlkUaGO~|V2H^q;wn.v"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person" attribute_type="boolean"></mutation><field name="category_name">person</field><field
+      name="attribute_name">guilty</field><field name="attribute_type">boolean</field><field
+      name="order">ov</field><field name="prefix"></field><field name="first_element">object</field><field
+      name="infix">'s attribute name is</field><field name="second_element">value</field><field
+      name="postfix">has committed a crime of sexual assault</field></block></next></block></next></block></next></block></next></block></statement></block><block
+      type="unattributed_constraint" id="q2JC?Y_2uZJ9baN5D_Ym" x="41" y="-335"><statement
+      name="conditions"><block type="new_object_category" id="8x.+I,fdCk]rJ4H#hR8p"><mutation
+      xmlns="http://www.w3.org/1999/xhtml" category_name="person"></mutation><field
+      name="category_name">person</field><value name="object"><block type="variable"
+      id="=vXNpdJ;tzrY/,-_.nvY"><field name="variable_name">Person1</field></block></value><next><block
+      type="new_object_category" id="FBO#30mc?%Ki_:PS7jJk"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person"></mutation><field name="category_name">person</field><value
+      name="object"><block type="variable" id="=AWrXbj#D_4IU)=v+[U{"><field name="variable_name">Person2</field></block></value><next><block
+      type="new_object_category" id="_:;-1ot+/W5dzMq0g+^j"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="sexual_intercourse"></mutation><field name="category_name">sexual_intercourse</field><value
+      name="object"><block type="variable" id="p|7qKd]7uNYAa:mM8i;U"><field name="variable_name">Event</field></block></value><next><block
+      type="attribute_selector" id="biK|MIJBsC:eRmxRd-7E"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="alleged_offender" attributetype="person" attributeorder="ov"></mutation><field
+      name="prefix"> the alleged offender in</field><field name="infix">is</field><field
+      name="postfix"></field><value name="first_element"><block type="variable" id="qb{L@d=R~uk?QM?s9XIH"><field
+      name="variable_name">Event</field></block></value><value name="second_element"><block
+      type="variable" id="cHM~v/*3`R4`makSLO9a"><field name="variable_name">Person1</field></block></value><next><block
+      type="attribute_selector" id="UYk?*B!H}qJToT$+q.PK"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="victim" attributetype="person" attributeorder="ov"></mutation><field
+      name="prefix">the victim in</field><field name="infix">is</field><field name="postfix"></field><value
+      name="first_element"><block type="variable" id="@D;jOi![?%x;O/N?[!rE"><field
+      name="variable_name">Event</field></block></value><value name="second_element"><block
+      type="variable" id="O}[-sEroRt]{+!}JhZoh"><field name="variable_name">Person2</field></block></value><next><block
+      type="object_equality" id="g:OGenn*}2{*.JaOl=BS"><value name="first_object"><block
+      type="variable" id="7m[7^x_zPXK@F]fL!inq"><field name="variable_name">Person1</field></block></value><value
+      name="second_object"><block type="variable" id="F)](fMH+v)!{0~9p]7m;"><field
+      name="variable_name">Person2</field></block></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+    scasp_encoding: 'blawx_category(person).
+
+      blawx_category_nlg(person,"","is a person").
+
+      :- dynamic person/1.
+
+      #pred person(X) :: ''@(X) is a person''.
+
+      #pred holds(user,person,X) :: ''it is provided as a fact that @(X) is a person''.
+
+      #pred holds(user,-person,X) :: ''it is provided as a fact that it is not the
+      case that @(X) is a person''.
+
+      #pred holds(Z,person,X) :: ''the conclusion in @(Z) that @(X) is a person holds''.
+
+      #pred holds(Z,-person,X) :: ''the conclusion in @(Z) that it is not the case
+      that @(X) is a person holds''.
+
+      #pred according_to(Z,person,X) :: ''according to @(Z), @(X) is a person''.
+
+      #pred according_to(Z,-person,X) :: ''according to @(Z), it is not the case that
+      @(X) is a person''.
+
+      #pred blawx_defeated(Z,person,X) :: ''the conclusion in @(Z) that @(X) is a
+      person is defeated''.
+
+      #pred blawx_defeated(Z,-person,X) :: ''the conclusion in @(Z) that it is not
+      the case that @(X) is a person is defeated''.
+
+      #pred blawx_initially(person(X)) :: ''that @(X) is a person holds initially''.
+
+      #pred blawx_initially(-person(X)) :: ''that it is not the case that @(X) is
+      a person holds initially''.
+
+      #pred blawx_ultimately(person(X)) :: ''that @(X) is a person holds ultimately''.
+
+      #pred blawx_ultimately(-person(X)) :: ''that it is not the case that @(X) is
+      a person holds ultimately''.
+
+      #pred blawx_as_of(person(X),T) :: ''that @(X) is a person holds at @(T)''.
+
+      #pred blawx_as_of(-person(X),T) :: ''that it is not the case that @(X) is a
+      person holds at @(T)''.
+
+      #pred blawx_during(T1,person(X),T2) :: ''that @(X) is a person held between
+      @(T1) and @(T2)''.
+
+      #pred blawx_during(T1,-person(X),T2) :: ''that it is not the case that @(X)
+      is a person held between @(T1) and @(T2)''.
+
+      #pred blawx_becomes(person(X),T) :: ''that @(X) is a person became true at @(T)''.
+
+      #pred blawx_becomes(-person(X),T) :: ''that it is not the case that @(X) is
+      a person became true at @(T)''.
+
+      blawx_as_of(person(X),datetime(Time)) :- blawx_becomes(person(X),datetime(BeforeT)),
+      not blawx_becomes(-person(X), datetime(BetweenT)), BeforeT #< Time,BeforeT #<
+      BetweenT, BetweenT #< Time.
+
+      blawx_as_of(person(X),datetime(Time)) :- blawx_initially(person(X)), not blawx_becomes(-person(X),
+      datetime(BetweenT)), BetweenT #< Time.
+
+      blawx_during(datetime(Start),person(X),datetime(End)) :- blawx_becomes(person(X),datetime(Start)),
+      not blawx_becomes(-person(X),datetime(BeforeEnd)), blawx_becomes(-person(X),datetime(End)),
+      BeforeEnd #< End, Start #< End.
+
+      blawx_during(datetime(bot),person(X),datetime(End)) :- blawx_initially(person(X)),
+      not blawx_becomes(-person(X),datetime(BeforeEnd)), blawx_becomes(-person(X),datetime(End)),
+      BeforeEnd #< End.
+
+      blawx_during(datetime(Start),person(X),datetime(eot)) :- blawx_becomes(person(X),datetime(Start)),
+      not blawx_becomes(-person(X),datetime(AfterStart)), blawx_ultimately(person(X)),
+      AfterStart #> Start.
+
+      blawx_as_of(-person(X),datetime(Time)) :- blawx_becomes(-person(X),datetime(BeforeT)),
+      not blawx_becomes(person(X), datetime(BetweenT)), BeforeT #< Time,BeforeT #<
+      BetweenT, BetweenT #< Time.
+
+      blawx_as_of(-person(X),datetime(Time)) :- blawx_initially(-person(X)), not blawx_becomes(person(X),
+      datetime(BetweenT)), BetweenT #< Time.
+
+      blawx_during(datetime(Start),-person(X),datetime(End)) :- blawx_becomes(-person(X),datetime(Start)),
+      not blawx_becomes(person(X),datetime(BeforeEnd)), blawx_becomes(person(X),datetime(End)),
+      BeforeEnd #< End, Start #< End.
+
+      blawx_during(datetime(bot),-person(X),datetime(End)) :- blawx_initially(-person(X)),
+      not blawx_becomes(person(X),datetime(BeforeEnd)), blawx_becomes(person(X),datetime(End)),
+      BeforeEnd #< End.
+
+      blawx_during(datetime(Start),-person(X),datetime(eot)) :- blawx_becomes(-person(X),datetime(Start)),
+      not blawx_becomes(person(X),datetime(AfterStart)), blawx_ultimately(-person(X)),
+      AfterStart #> Start.
+
+      blawx_category(sexual_intercourse).
+
+      blawx_category_nlg(sexual_intercourse,"","is a sexual intercourse").
+
+      :- dynamic sexual_intercourse/1.
+
+      #pred sexual_intercourse(X) :: ''@(X) is a sexual intercourse''.
+
+      #pred holds(user,sexual_intercourse,X) :: ''it is provided as a fact that @(X)
+      is a sexual intercourse''.
+
+      #pred holds(user,-sexual_intercourse,X) :: ''it is provided as a fact that it
+      is not the case that @(X) is a sexual intercourse''.
+
+      #pred holds(Z,sexual_intercourse,X) :: ''the conclusion in @(Z) that @(X) is
+      a sexual intercourse holds''.
+
+      #pred holds(Z,-sexual_intercourse,X) :: ''the conclusion in @(Z) that it is
+      not the case that @(X) is a sexual intercourse holds''.
+
+      #pred according_to(Z,sexual_intercourse,X) :: ''according to @(Z), @(X) is a
+      sexual intercourse''.
+
+      #pred according_to(Z,-sexual_intercourse,X) :: ''according to @(Z), it is not
+      the case that @(X) is a sexual intercourse''.
+
+      #pred blawx_defeated(Z,sexual_intercourse,X) :: ''the conclusion in @(Z) that
+      @(X) is a sexual intercourse is defeated''.
+
+      #pred blawx_defeated(Z,-sexual_intercourse,X) :: ''the conclusion in @(Z) that
+      it is not the case that @(X) is a sexual intercourse is defeated''.
+
+      #pred blawx_initially(sexual_intercourse(X)) :: ''that @(X) is a sexual intercourse
+      holds initially''.
+
+      #pred blawx_initially(-sexual_intercourse(X)) :: ''that it is not the case that
+      @(X) is a sexual intercourse holds initially''.
+
+      #pred blawx_ultimately(sexual_intercourse(X)) :: ''that @(X) is a sexual intercourse
+      holds ultimately''.
+
+      #pred blawx_ultimately(-sexual_intercourse(X)) :: ''that it is not the case
+      that @(X) is a sexual intercourse holds ultimately''.
+
+      #pred blawx_as_of(sexual_intercourse(X),T) :: ''that @(X) is a sexual intercourse
+      holds at @(T)''.
+
+      #pred blawx_as_of(-sexual_intercourse(X),T) :: ''that it is not the case that
+      @(X) is a sexual intercourse holds at @(T)''.
+
+      #pred blawx_during(T1,sexual_intercourse(X),T2) :: ''that @(X) is a sexual intercourse
+      held between @(T1) and @(T2)''.
+
+      #pred blawx_during(T1,-sexual_intercourse(X),T2) :: ''that it is not the case
+      that @(X) is a sexual intercourse held between @(T1) and @(T2)''.
+
+      #pred blawx_becomes(sexual_intercourse(X),T) :: ''that @(X) is a sexual intercourse
+      became true at @(T)''.
+
+      #pred blawx_becomes(-sexual_intercourse(X),T) :: ''that it is not the case that
+      @(X) is a sexual intercourse became true at @(T)''.
+
+      blawx_as_of(sexual_intercourse(X),datetime(Time)) :- blawx_becomes(sexual_intercourse(X),datetime(BeforeT)),
+      not blawx_becomes(-sexual_intercourse(X), datetime(BetweenT)), BeforeT #< Time,BeforeT
+      #< BetweenT, BetweenT #< Time.
+
+      blawx_as_of(sexual_intercourse(X),datetime(Time)) :- blawx_initially(sexual_intercourse(X)),
+      not blawx_becomes(-sexual_intercourse(X), datetime(BetweenT)), BetweenT #< Time.
+
+      blawx_during(datetime(Start),sexual_intercourse(X),datetime(End)) :- blawx_becomes(sexual_intercourse(X),datetime(Start)),
+      not blawx_becomes(-sexual_intercourse(X),datetime(BeforeEnd)), blawx_becomes(-sexual_intercourse(X),datetime(End)),
+      BeforeEnd #< End, Start #< End.
+
+      blawx_during(datetime(bot),sexual_intercourse(X),datetime(End)) :- blawx_initially(sexual_intercourse(X)),
+      not blawx_becomes(-sexual_intercourse(X),datetime(BeforeEnd)), blawx_becomes(-sexual_intercourse(X),datetime(End)),
+      BeforeEnd #< End.
+
+      blawx_during(datetime(Start),sexual_intercourse(X),datetime(eot)) :- blawx_becomes(sexual_intercourse(X),datetime(Start)),
+      not blawx_becomes(-sexual_intercourse(X),datetime(AfterStart)), blawx_ultimately(sexual_intercourse(X)),
+      AfterStart #> Start.
+
+      blawx_as_of(-sexual_intercourse(X),datetime(Time)) :- blawx_becomes(-sexual_intercourse(X),datetime(BeforeT)),
+      not blawx_becomes(sexual_intercourse(X), datetime(BetweenT)), BeforeT #< Time,BeforeT
+      #< BetweenT, BetweenT #< Time.
+
+      blawx_as_of(-sexual_intercourse(X),datetime(Time)) :- blawx_initially(-sexual_intercourse(X)),
+      not blawx_becomes(sexual_intercourse(X), datetime(BetweenT)), BetweenT #< Time.
+
+      blawx_during(datetime(Start),-sexual_intercourse(X),datetime(End)) :- blawx_becomes(-sexual_intercourse(X),datetime(Start)),
+      not blawx_becomes(sexual_intercourse(X),datetime(BeforeEnd)), blawx_becomes(sexual_intercourse(X),datetime(End)),
+      BeforeEnd #< End, Start #< End.
+
+      blawx_during(datetime(bot),-sexual_intercourse(X),datetime(End)) :- blawx_initially(-sexual_intercourse(X)),
+      not blawx_becomes(sexual_intercourse(X),datetime(BeforeEnd)), blawx_becomes(sexual_intercourse(X),datetime(End)),
+      BeforeEnd #< End.
+
+      blawx_during(datetime(Start),-sexual_intercourse(X),datetime(eot)) :- blawx_becomes(-sexual_intercourse(X),datetime(Start)),
+      not blawx_becomes(sexual_intercourse(X),datetime(AfterStart)), blawx_ultimately(-sexual_intercourse(X)),
+      AfterStart #> Start.
+
+      blawx_attribute(sexual_intercourse,alleged_offender,person).
+
+      blawx_attribute_nlg(alleged_offender,ov," the alleged offender in","is","").
+
+      :- dynamic alleged_offender/2.
+
+      #pred alleged_offender(X,Y) :: ''the alleged offender in @(X) is @(Y)''.
+
+      #pred holds(user,alleged_offender,X,Y) :: ''it is provided as a fact that the
+      alleged offender in @(X) is @(Y)''.
+
+      #pred holds(user,-alleged_offender,X,Y) :: ''it is provided as a fact that it
+      is not the case that the alleged offender in @(X) is @(Y)''.
+
+      #pred holds(Z,alleged_offender,X,Y) :: ''the conclusion in @(Z) that the alleged
+      offender in @(X) is @(Y) holds''.
+
+      #pred holds(Z,-alleged_offender,X,Y) :: ''the conclusion in @(Z) that it is
+      not the case that the alleged offender in @(X) is @(Y) holds''.
+
+      #pred according_to(Z,alleged_offender,X,Y) :: ''according to @(Z), the alleged
+      offender in @(X) is @(Y)''.
+
+      #pred according_to(Z,-alleged_offender,X,Y) :: ''according to @(Z), it is not
+      the case that the alleged offender in @(X) is @(Y)''.
+
+      #pred blawx_defeated(Z,alleged_offender,X,Y) :: ''the conclusion in @(Z) that
+      the alleged offender in @(X) is @(Y) is defeated''.
+
+      #pred blawx_defeated(Z,-alleged_offender,X,Y) :: ''the conclusion in @(Z) that
+      the alleged offender in @(X) is @(Y) is defeated''.
+
+      #pred blawx_initially(alleged_offender(X,Y)) :: ''that the alleged offender
+      in @(X) is @(Y) holds initially''.
+
+      #pred blawx_initially(-alleged_offender(X,Y)) :: ''that it is not the case that
+      the alleged offender in @(X) is @(Y) holds initially''.
+
+      #pred blawx_ultimately(alleged_offender(X,Y)) :: ''that the alleged offender
+      in @(X) is @(Y) holds ultimately''.
+
+      #pred blawx_ultimately(-alleged_offender(X,Y)) :: ''that it is not the case
+      that the alleged offender in @(X) is @(Y) holds ultimately''.
+
+      #pred blawx_as_of(alleged_offender(X,Y),T) :: ''that the alleged offender in
+      @(X) is @(Y) holds at @(T)''.
+
+      #pred blawx_as_of(-alleged_offender(X,Y),T) :: ''that it is not the case that
+      the alleged offender in @(X) is @(Y) holds at @(T)''.
+
+      #pred blawx_during(T1,alleged_offender(X,Y),T2) :: ''that the alleged offender
+      in @(X) is @(Y) held between @(T1) and @(T2)''.
+
+      #pred blawx_during(T1,-alleged_offender(X,Y),T2) :: ''that it is not the case
+      that the alleged offender in @(X) is @(Y) held between @(T1) and @(T2)''.
+
+      #pred blawx_becomes(alleged_offender(X,Y),T) :: ''that the alleged offender
+      in @(X) is @(Y) became true at @(T)''.
+
+      #pred blawx_becomes(-alleged_offender(X,Y),T) :: ''that it is not the case that
+      the alleged offender in @(X) is @(Y) became true at @(T)''.
+
+      blawx_as_of(alleged_offender(X,Y),datetime(Time)) :- blawx_becomes(alleged_offender(X,Y),datetime(BeforeT)),
+      not blawx_becomes(-alleged_offender(X,Y), datetime(BetweenT)), BeforeT #< Time,BeforeT
+      #< BetweenT, BetweenT #< Time.
+
+      blawx_as_of(alleged_offender(X,Y),datetime(Time)) :- blawx_initially(alleged_offender(X,Y)),
+      not blawx_becomes(-alleged_offender(X,Y), datetime(BetweenT)), BetweenT #< Time.
+
+      blawx_during(datetime(Start),alleged_offender(X,Y),datetime(End)) :- blawx_becomes(alleged_offender(X,Y),datetime(Start)),
+      not blawx_becomes(-alleged_offender(X,Y),datetime(BeforeEnd)), blawx_becomes(-alleged_offender(X,Y),datetime(End)),
+      BeforeEnd #< End, Start #< End.
+
+      blawx_during(datetime(bot),alleged_offender(X,Y),datetime(End)) :- blawx_initially(alleged_offender(X,Y)),
+      not blawx_becomes(-alleged_offender(X,Y),datetime(BeforeEnd)), blawx_becomes(-alleged_offender(X,Y),datetime(End)),
+      BeforeEnd #< End.
+
+      blawx_during(datetime(Start),alleged_offender(X,Y),datetime(eot)) :- blawx_becomes(alleged_offender(X,Y),datetime(Start)),
+      not blawx_becomes(-alleged_offender(X,Y),datetime(AfterStart)), blawx_ultimately(alleged_offender(X,Y)),
+      AfterStart #> Start.
+
+      blawx_as_of(-alleged_offender(X,Y),datetime(Time)) :- blawx_becomes(-alleged_offender(X,Y),datetime(BeforeT)),
+      not blawx_becomes(alleged_offender(X,Y), datetime(BetweenT)), BeforeT #< Time,BeforeT
+      #< BetweenT, BetweenT #< Time.
+
+      blawx_as_of(-alleged_offender(X,Y),datetime(Time)) :- blawx_initially(-alleged_offender(X,Y)),
+      not blawx_becomes(alleged_offender(X,Y), datetime(BetweenT)), BetweenT #< Time.
+
+      blawx_during(datetime(Start),-alleged_offender(X,Y),datetime(End)) :- blawx_becomes(-alleged_offender(X,Y),datetime(Start)),
+      not blawx_becomes(alleged_offender(X,Y),datetime(BeforeEnd)), blawx_becomes(alleged_offender(X,Y),datetime(End)),
+      BeforeEnd #< End, Start #< End.
+
+      blawx_during(datetime(bot),-alleged_offender(X,Y),datetime(End)) :- blawx_initially(-alleged_offender(X,Y)),
+      not blawx_becomes(alleged_offender(X,Y),datetime(BeforeEnd)), blawx_becomes(alleged_offender(X,Y),datetime(End)),
+      BeforeEnd #< End.
+
+      blawx_during(datetime(Start),-alleged_offender(X,Y),datetime(eot)) :- blawx_becomes(-alleged_offender(X,Y),datetime(Start)),
+      not blawx_becomes(alleged_offender(X,Y),datetime(AfterStart)), blawx_ultimately(-alleged_offender(X,Y)),
+      AfterStart #> Start.
+
+      blawx_attribute(sexual_intercourse,victim,person).
+
+      blawx_attribute_nlg(victim,ov,"the victim in","is","").
+
+      :- dynamic victim/2.
+
+      #pred victim(X,Y) :: ''the victim in @(X) is @(Y)''.
+
+      #pred holds(user,victim,X,Y) :: ''it is provided as a fact that the victim in
+      @(X) is @(Y)''.
+
+      #pred holds(user,-victim,X,Y) :: ''it is provided as a fact that it is not the
+      case that the victim in @(X) is @(Y)''.
+
+      #pred holds(Z,victim,X,Y) :: ''the conclusion in @(Z) that the victim in @(X)
+      is @(Y) holds''.
+
+      #pred holds(Z,-victim,X,Y) :: ''the conclusion in @(Z) that it is not the case
+      that the victim in @(X) is @(Y) holds''.
+
+      #pred according_to(Z,victim,X,Y) :: ''according to @(Z), the victim in @(X)
+      is @(Y)''.
+
+      #pred according_to(Z,-victim,X,Y) :: ''according to @(Z), it is not the case
+      that the victim in @(X) is @(Y)''.
+
+      #pred blawx_defeated(Z,victim,X,Y) :: ''the conclusion in @(Z) that the victim
+      in @(X) is @(Y) is defeated''.
+
+      #pred blawx_defeated(Z,-victim,X,Y) :: ''the conclusion in @(Z) that the victim
+      in @(X) is @(Y) is defeated''.
+
+      #pred blawx_initially(victim(X,Y)) :: ''that the victim in @(X) is @(Y) holds
+      initially''.
+
+      #pred blawx_initially(-victim(X,Y)) :: ''that it is not the case that the victim
+      in @(X) is @(Y) holds initially''.
+
+      #pred blawx_ultimately(victim(X,Y)) :: ''that the victim in @(X) is @(Y) holds
+      ultimately''.
+
+      #pred blawx_ultimately(-victim(X,Y)) :: ''that it is not the case that the victim
+      in @(X) is @(Y) holds ultimately''.
+
+      #pred blawx_as_of(victim(X,Y),T) :: ''that the victim in @(X) is @(Y) holds
+      at @(T)''.
+
+      #pred blawx_as_of(-victim(X,Y),T) :: ''that it is not the case that the victim
+      in @(X) is @(Y) holds at @(T)''.
+
+      #pred blawx_during(T1,victim(X,Y),T2) :: ''that the victim in @(X) is @(Y) held
+      between @(T1) and @(T2)''.
+
+      #pred blawx_during(T1,-victim(X,Y),T2) :: ''that it is not the case that the
+      victim in @(X) is @(Y) held between @(T1) and @(T2)''.
+
+      #pred blawx_becomes(victim(X,Y),T) :: ''that the victim in @(X) is @(Y) became
+      true at @(T)''.
+
+      #pred blawx_becomes(-victim(X,Y),T) :: ''that it is not the case that the victim
+      in @(X) is @(Y) became true at @(T)''.
+
+      blawx_as_of(victim(X,Y),datetime(Time)) :- blawx_becomes(victim(X,Y),datetime(BeforeT)),
+      not blawx_becomes(-victim(X,Y), datetime(BetweenT)), BeforeT #< Time,BeforeT
+      #< BetweenT, BetweenT #< Time.
+
+      blawx_as_of(victim(X,Y),datetime(Time)) :- blawx_initially(victim(X,Y)), not
+      blawx_becomes(-victim(X,Y), datetime(BetweenT)), BetweenT #< Time.
+
+      blawx_during(datetime(Start),victim(X,Y),datetime(End)) :- blawx_becomes(victim(X,Y),datetime(Start)),
+      not blawx_becomes(-victim(X,Y),datetime(BeforeEnd)), blawx_becomes(-victim(X,Y),datetime(End)),
+      BeforeEnd #< End, Start #< End.
+
+      blawx_during(datetime(bot),victim(X,Y),datetime(End)) :- blawx_initially(victim(X,Y)),
+      not blawx_becomes(-victim(X,Y),datetime(BeforeEnd)), blawx_becomes(-victim(X,Y),datetime(End)),
+      BeforeEnd #< End.
+
+      blawx_during(datetime(Start),victim(X,Y),datetime(eot)) :- blawx_becomes(victim(X,Y),datetime(Start)),
+      not blawx_becomes(-victim(X,Y),datetime(AfterStart)), blawx_ultimately(victim(X,Y)),
+      AfterStart #> Start.
+
+      blawx_as_of(-victim(X,Y),datetime(Time)) :- blawx_becomes(-victim(X,Y),datetime(BeforeT)),
+      not blawx_becomes(victim(X,Y), datetime(BetweenT)), BeforeT #< Time,BeforeT
+      #< BetweenT, BetweenT #< Time.
+
+      blawx_as_of(-victim(X,Y),datetime(Time)) :- blawx_initially(-victim(X,Y)), not
+      blawx_becomes(victim(X,Y), datetime(BetweenT)), BetweenT #< Time.
+
+      blawx_during(datetime(Start),-victim(X,Y),datetime(End)) :- blawx_becomes(-victim(X,Y),datetime(Start)),
+      not blawx_becomes(victim(X,Y),datetime(BeforeEnd)), blawx_becomes(victim(X,Y),datetime(End)),
+      BeforeEnd #< End, Start #< End.
+
+      blawx_during(datetime(bot),-victim(X,Y),datetime(End)) :- blawx_initially(-victim(X,Y)),
+      not blawx_becomes(victim(X,Y),datetime(BeforeEnd)), blawx_becomes(victim(X,Y),datetime(End)),
+      BeforeEnd #< End.
+
+      blawx_during(datetime(Start),-victim(X,Y),datetime(eot)) :- blawx_becomes(-victim(X,Y),datetime(Start)),
+      not blawx_becomes(victim(X,Y),datetime(AfterStart)), blawx_ultimately(-victim(X,Y)),
+      AfterStart #> Start.
+
+      blawx_attribute(person,guilty,boolean).
+
+      blawx_attribute_nlg(guilty,not_applicable,"",not_applicable,"has committed a
+      crime of sexual assault").
+
+      :- dynamic guilty/1.
+
+      #pred guilty(X) :: ''@(X) has committed a crime of sexual assault''.
+
+      #pred holds(user,guilty,X) :: ''it is provided as a fact that @(X) has committed
+      a crime of sexual assault''.
+
+      #pred holds(user,-guilty,X) :: ''it is provided as a fact that it is not the
+      case that @(X) has committed a crime of sexual assault''.
+
+      #pred holds(Z,guilty,X) :: ''the conclusion in @(Z) that @(X) has committed
+      a crime of sexual assault holds''.
+
+      #pred holds(Z,-guilty,X) :: ''the conclusion in @(Z) that it is not the case
+      that @(X) has committed a crime of sexual assault holds''.
+
+      #pred according_to(Z,guilty,X) :: ''according to @(Z), @(X) has committed a
+      crime of sexual assault''.
+
+      #pred according_to(Z,-guilty,X) :: ''according to @(Z), it is not the case that
+      @(X) has committed a crime of sexual assault''.
+
+      #pred blawx_defeated(Z,guilty,X) :: ''the conclusion in @(Z) that @(X) has committed
+      a crime of sexual assault is defeated''.
+
+      #pred blawx_defeated(Z,-guilty,X) :: ''the conclusion in @(Z) that @(X) has
+      committed a crime of sexual assault is defeated''.
+
+      #pred blawx_initially(guilty(X)) :: ''that @(X) has committed a crime of sexual
+      assault holds initially''.
+
+      #pred blawx_initially(-guilty(X)) :: ''that it is not the case that @(X) has
+      committed a crime of sexual assault holds initially''.
+
+      #pred blawx_ultimately(guilty(X)) :: ''that @(X) has committed a crime of sexual
+      assault holds ultimately''.
+
+      #pred blawx_ultimately(-guilty(X)) :: ''that it is not the case that @(X) has
+      committed a crime of sexual assault holds ultimately''.
+
+      #pred blawx_as_of(guilty(X),T) :: ''that @(X) has committed a crime of sexual
+      assault holds at @(T)''.
+
+      #pred blawx_as_of(-guilty(X),T) :: ''that it is not the case that @(X) has committed
+      a crime of sexual assault holds at @(T)''.
+
+      #pred blawx_during(T1,guilty(X),T2) :: ''that @(X) has committed a crime of
+      sexual assault held between @(T1) and @(T2)''.
+
+      #pred blawx_during(T1,-guilty(X),T2) :: ''that it is not the case that @(X)
+      has committed a crime of sexual assault held between @(T1) and @(T2)''.
+
+      #pred blawx_becomes(guilty(X),T) :: ''that @(X) has committed a crime of sexual
+      assault became true at @(T)''.
+
+      #pred blawx_becomes(-guilty(X),T) :: ''that it is not the case that @(X) has
+      committed a crime of sexual assault became true at @(T)''.
+
+      blawx_as_of(guilty(X),datetime(Time)) :- blawx_becomes(guilty(X),datetime(BeforeT)),
+      not blawx_becomes(-guilty(X), datetime(BetweenT)), BeforeT #< Time,BeforeT #<
+      BetweenT, BetweenT #< Time.
+
+      blawx_as_of(guilty(X),datetime(Time)) :- blawx_initially(guilty(X)), not blawx_becomes(-guilty(X),
+      datetime(BetweenT)), BetweenT #< Time.
+
+      blawx_during(datetime(Start),guilty(X),datetime(End)) :- blawx_becomes(guilty(X),datetime(Start)),
+      not blawx_becomes(-guilty(X),datetime(BeforeEnd)), blawx_becomes(-guilty(X),datetime(End)),
+      BeforeEnd #< End, Start #< End.
+
+      blawx_during(datetime(bot),guilty(X),datetime(End)) :- blawx_initially(guilty(X)),
+      not blawx_becomes(-guilty(X),datetime(BeforeEnd)), blawx_becomes(-guilty(X),datetime(End)),
+      BeforeEnd #< End.
+
+      blawx_during(datetime(Start),guilty(X),datetime(eot)) :- blawx_becomes(guilty(X),datetime(Start)),
+      not blawx_becomes(-guilty(X),datetime(AfterStart)), blawx_ultimately(guilty(X)),
+      AfterStart #> Start.
+
+      blawx_as_of(-guilty(X),datetime(Time)) :- blawx_becomes(-guilty(X),datetime(BeforeT)),
+      not blawx_becomes(guilty(X), datetime(BetweenT)), BeforeT #< Time,BeforeT #<
+      BetweenT, BetweenT #< Time.
+
+      blawx_as_of(-guilty(X),datetime(Time)) :- blawx_initially(-guilty(X)), not blawx_becomes(guilty(X),
+      datetime(BetweenT)), BetweenT #< Time.
+
+      blawx_during(datetime(Start),-guilty(X),datetime(End)) :- blawx_becomes(-guilty(X),datetime(Start)),
+      not blawx_becomes(guilty(X),datetime(BeforeEnd)), blawx_becomes(guilty(X),datetime(End)),
+      BeforeEnd #< End, Start #< End.
+
+      blawx_during(datetime(bot),-guilty(X),datetime(End)) :- blawx_initially(-guilty(X)),
+      not blawx_becomes(guilty(X),datetime(BeforeEnd)), blawx_becomes(guilty(X),datetime(End)),
+      BeforeEnd #< End.
+
+      blawx_during(datetime(Start),-guilty(X),datetime(eot)) :- blawx_becomes(-guilty(X),datetime(Start)),
+      not blawx_becomes(guilty(X),datetime(AfterStart)), blawx_ultimately(-guilty(X)),
+      AfterStart #> Start.
+
+
+      false :- person(Person1),
+
+      person(Person2),
+
+      sexual_intercourse(Event),
+
+      alleged_offender(Event,Person1),
+
+      victim(Event,Person2),
+
+      Person1 = Person2.'
+- model: blawx.workspace
+  pk: 69
+  fields:
+    ruledoc: 7
+    workspace_name: sec_1__subsec_1__para_a_section
+    xml_content: <xml xmlns="https://developers.google.com/blockly/xml"><block type="unattributed_fact"
+      id="q%r[-CFi(X,XCDfG6{Bs" x="46" y="-712"><statement name="statements"><block
+      type="new_attribute_declaration" id="iwycX-Bfr~Bh4rs}2ZIM"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="sexual_intercourse" attribute_type="boolean"></mutation><field
+      name="category_name">sexual_intercourse</field><field name="attribute_name">violence</field><field
+      name="attribute_type">boolean</field><field name="order">ov</field><field name="prefix"></field><field
+      name="first_element">object</field><field name="infix">'s attribute name is</field><field
+      name="second_element">value</field><field name="postfix">has been committed
+      with the use of violence</field></block></statement></block><block type="attributed_rule"
+      id="7bp@}pW?2}}]PzEo_KjA" x="38" y="-494"><field name="defeasible">FALSE</field><field
+      name="inapplicable">FALSE</field><statement name="conditions"><block type="new_object_category"
+      id="|@:s},G8.wL.R/`yZLXS"><mutation xmlns="http://www.w3.org/1999/xhtml" category_name="sexual_intercourse"></mutation><field
+      name="category_name">sexual_intercourse</field><value name="object"><block type="variable"
+      id="f1g.,j=uY+`seAD*5ko$"><field name="variable_name">Event</field></block></value><next><block
+      type="unary_attribute_selector" id="}[I?v9.{|iI=l{gkVj/i"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="violence" attributetype="boolean"></mutation><field name="prefix"></field><field
+      name="postfix">has been committed with the use of violence</field><value name="first_element"><block
+      type="variable" id="Q_oInex`eh{tN!nVJP}d"><field name="variable_name">Event</field></block></value><next><block
+      type="new_object_category" id="udU7a*ak`Lip8=1tA_y4"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person"></mutation><field name="category_name">person</field><value
+      name="object"><block type="variable" id="sgb)~oHbZV_H##%|p[tq"><field name="variable_name">Subject</field></block></value><next><block
+      type="attribute_selector" id="gT~A-{[1[^j.kh*h=jRw"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="alleged_offender" attributetype="person" attributeorder="ov"></mutation><field
+      name="prefix"> the alleged offender in</field><field name="infix">is</field><field
+      name="postfix"></field><value name="first_element"><block type="variable" id="fKUZ,cJ0FUsJ^U!8^U6g"><field
+      name="variable_name">Event</field></block></value><value name="second_element"><block
+      type="variable" id="0a#u0V-vT!MRCTPCc)01"><field name="variable_name">Subject</field></block></value></block></next></block></next></block></next></block></statement><value
+      name="source"><block type="doc_selector" id="rqF@oPHQ78JA!GWvplU7"><mutation
+      xmlns="http://www.w3.org/1999/xhtml" section_reference="sec_1__subsec_1__para_a_section"></mutation><field
+      name="doc_part_name">CC 1.1.a</field></block></value><statement name="conclusion"><block
+      type="unary_attribute_selector" id="VpZO?!4YCJe5;|`B;w-4"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="guilty" attributetype="boolean"></mutation><field name="prefix"></field><field
+      name="postfix">has committed a crime of sexual assault</field><value name="first_element"><block
+      type="variable" id="(j+VL5$g{2|7=BvAiUOY"><field name="variable_name">Subject</field></block></value></block></statement></block></xml>
+    scasp_encoding: "blawx_attribute(sexual_intercourse,violence,boolean).\nblawx_attribute_nlg(violence,not_applicable,\"\",not_applicable,\"has
+      been committed with the use of violence\").\n:- dynamic violence/1.\n#pred violence(X)
+      :: '@(X) has been committed with the use of violence'.\n#pred holds(user,violence,X)
+      :: 'it is provided as a fact that @(X) has been committed with the use of violence'.\n#pred
+      holds(user,-violence,X) :: 'it is provided as a fact that it is not the case
+      that @(X) has been committed with the use of violence'.\n#pred holds(Z,violence,X)
+      :: 'the conclusion in @(Z) that @(X) has been committed with the use of violence
+      holds'.\n#pred holds(Z,-violence,X) :: 'the conclusion in @(Z) that it is not
+      the case that @(X) has been committed with the use of violence holds'.\n#pred
+      according_to(Z,violence,X) :: 'according to @(Z), @(X) has been committed with
+      the use of violence'.\n#pred according_to(Z,-violence,X) :: 'according to @(Z),
+      it is not the case that @(X) has been committed with the use of violence'.\n#pred
+      blawx_defeated(Z,violence,X) :: 'the conclusion in @(Z) that @(X) has been committed
+      with the use of violence is defeated'.\n#pred blawx_defeated(Z,-violence,X)
+      :: 'the conclusion in @(Z) that @(X) has been committed with the use of violence
+      is defeated'.\n#pred blawx_initially(violence(X)) :: 'that @(X) has been committed
+      with the use of violence holds initially'.\n#pred blawx_initially(-violence(X))
+      :: 'that it is not the case that @(X) has been committed with the use of violence
+      holds initially'.\n#pred blawx_ultimately(violence(X)) :: 'that @(X) has been
+      committed with the use of violence holds ultimately'.\n#pred blawx_ultimately(-violence(X))
+      :: 'that it is not the case that @(X) has been committed with the use of violence
+      holds ultimately'.\n#pred blawx_as_of(violence(X),T) :: 'that @(X) has been
+      committed with the use of violence holds at @(T)'.\n#pred blawx_as_of(-violence(X),T)
+      :: 'that it is not the case that @(X) has been committed with the use of violence
+      holds at @(T)'.\n#pred blawx_during(T1,violence(X),T2) :: 'that @(X) has been
+      committed with the use of violence held between @(T1) and @(T2)'.\n#pred blawx_during(T1,-violence(X),T2)
+      :: 'that it is not the case that @(X) has been committed with the use of violence
+      held between @(T1) and @(T2)'.\n#pred blawx_becomes(violence(X),T) :: 'that
+      @(X) has been committed with the use of violence became true at @(T)'.\n#pred
+      blawx_becomes(-violence(X),T) :: 'that it is not the case that @(X) has been
+      committed with the use of violence became true at @(T)'.\nblawx_as_of(violence(X),datetime(Time))
+      :- blawx_becomes(violence(X),datetime(BeforeT)), not blawx_becomes(-violence(X),
+      datetime(BetweenT)), BeforeT #< Time,BeforeT #< BetweenT, BetweenT #< Time.\nblawx_as_of(violence(X),datetime(Time))
+      :- blawx_initially(violence(X)), not blawx_becomes(-violence(X), datetime(BetweenT)),
+      BetweenT #< Time.\nblawx_during(datetime(Start),violence(X),datetime(End)) :-
+      blawx_becomes(violence(X),datetime(Start)), not blawx_becomes(-violence(X),datetime(BeforeEnd)),
+      blawx_becomes(-violence(X),datetime(End)), BeforeEnd #< End, Start #< End.\nblawx_during(datetime(bot),violence(X),datetime(End))
+      :- blawx_initially(violence(X)), not blawx_becomes(-violence(X),datetime(BeforeEnd)),
+      blawx_becomes(-violence(X),datetime(End)), BeforeEnd #< End.\nblawx_during(datetime(Start),violence(X),datetime(eot))
+      :- blawx_becomes(violence(X),datetime(Start)), not blawx_becomes(-violence(X),datetime(AfterStart)),
+      blawx_ultimately(violence(X)), AfterStart #> Start.\nblawx_as_of(-violence(X),datetime(Time))
+      :- blawx_becomes(-violence(X),datetime(BeforeT)), not blawx_becomes(violence(X),
+      datetime(BetweenT)), BeforeT #< Time,BeforeT #< BetweenT, BetweenT #< Time.\nblawx_as_of(-violence(X),datetime(Time))
+      :- blawx_initially(-violence(X)), not blawx_becomes(violence(X), datetime(BetweenT)),
+      BetweenT #< Time.\nblawx_during(datetime(Start),-violence(X),datetime(End))
+      :- blawx_becomes(-violence(X),datetime(Start)), not blawx_becomes(violence(X),datetime(BeforeEnd)),
+      blawx_becomes(violence(X),datetime(End)), BeforeEnd #< End, Start #< End.\nblawx_during(datetime(bot),-violence(X),datetime(End))
+      :- blawx_initially(-violence(X)), not blawx_becomes(violence(X),datetime(BeforeEnd)),
+      blawx_becomes(violence(X),datetime(End)), BeforeEnd #< End.\nblawx_during(datetime(Start),-violence(X),datetime(eot))
+      :- blawx_becomes(-violence(X),datetime(Start)), not blawx_becomes(violence(X),datetime(AfterStart)),
+      blawx_ultimately(-violence(X)), AfterStart #> Start.\n\naccording_to(sec_1__subsec_1__para_a_section,guilty,Subject)
+      :- sexual_intercourse(Event),\nviolence(Event),\nperson(Subject),\nalleged_offender(Event,Subject).\n\n%
+      BLAWX CHECK DUPLICATES\nholds(sec_1__subsec_1__para_a_section,guilty,Subject)
+      :- according_to(sec_1__subsec_1__para_a_section,guilty,Subject).\n\n% BLAWX
+      CHECK DUPLICATES\n  guilty(Subject) :- holds(sec_1__subsec_1__para_a_section,guilty,Subject)."
+- model: blawx.workspace
+  pk: 70
+  fields:
+    ruledoc: 7
+    workspace_name: sec_2_section
+    xml_content: ''
+    scasp_encoding: ''
+- model: blawx.workspace
+  pk: 71
+  fields:
+    ruledoc: 7
+    workspace_name: sec_1__subsec_1__para_b_section
+    xml_content: <xml xmlns="https://developers.google.com/blockly/xml"><block type="unattributed_fact"
+      id="q%r[-CFi(X,XCDfG6{Bs" x="74" y="-656"><statement name="statements"><block
+      type="new_attribute_declaration" id="iwycX-Bfr~Bh4rs}2ZIM"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="sexual_intercourse" attribute_type="boolean"></mutation><field
+      name="category_name">sexual_intercourse</field><field name="attribute_name">intimidation</field><field
+      name="attribute_type">boolean</field><field name="order">ov</field><field name="prefix"></field><field
+      name="first_element">object</field><field name="infix">'s attribute name is</field><field
+      name="second_element">value</field><field name="postfix">has been committed
+      with the use of intimidation</field></block></statement></block><block type="attributed_rule"
+      id="ERF,ko@iwH[5|Ex5f$q+" x="67" y="-446"><field name="defeasible">FALSE</field><field
+      name="inapplicable">FALSE</field><statement name="conditions"><block type="new_object_category"
+      id="|@:s},G8.wL.R/`yZLXS"><mutation xmlns="http://www.w3.org/1999/xhtml" category_name="sexual_intercourse"></mutation><field
+      name="category_name">sexual_intercourse</field><value name="object"><block type="variable"
+      id="f1g.,j=uY+`seAD*5ko$"><field name="variable_name">Event</field></block></value><next><block
+      type="unary_attribute_selector" id="^NB-/MM7InA=,dE/Y$^d"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="intimidation" attributetype="boolean"></mutation><field name="prefix"></field><field
+      name="postfix">has been committed with the use of intimidation</field><value
+      name="first_element"><block type="variable" id="Q_oInex`eh{tN!nVJP}d"><field
+      name="variable_name">Event</field></block></value><next><block type="new_object_category"
+      id="udU7a*ak`Lip8=1tA_y4"><mutation xmlns="http://www.w3.org/1999/xhtml" category_name="person"></mutation><field
+      name="category_name">person</field><value name="object"><block type="variable"
+      id="sgb)~oHbZV_H##%|p[tq"><field name="variable_name">Subject</field></block></value><next><block
+      type="attribute_selector" id="gT~A-{[1[^j.kh*h=jRw"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="alleged_offender" attributetype="person" attributeorder="ov"></mutation><field
+      name="prefix"> the alleged offender in</field><field name="infix">is</field><field
+      name="postfix"></field><value name="first_element"><block type="variable" id="fKUZ,cJ0FUsJ^U!8^U6g"><field
+      name="variable_name">Event</field></block></value><value name="second_element"><block
+      type="variable" id="0a#u0V-vT!MRCTPCc)01"><field name="variable_name">Subject</field></block></value></block></next></block></next></block></next></block></statement><value
+      name="source"><block type="doc_selector" id="QF1}TtyP)u@z(Fky-*~L"><mutation
+      xmlns="http://www.w3.org/1999/xhtml" section_reference="sec_1__subsec_1__para_b_section"></mutation><field
+      name="doc_part_name">CC 1.1.b</field></block></value><statement name="conclusion"><block
+      type="unary_attribute_selector" id="VpZO?!4YCJe5;|`B;w-4"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="guilty" attributetype="boolean"></mutation><field name="prefix"></field><field
+      name="postfix">has committed a crime of sexual assault</field><value name="first_element"><block
+      type="variable" id="(j+VL5$g{2|7=BvAiUOY"><field name="variable_name">Subject</field></block></value></block></statement></block></xml>
+    scasp_encoding: "blawx_attribute(sexual_intercourse,intimidation,boolean).\nblawx_attribute_nlg(intimidation,not_applicable,\"\",not_applicable,\"has
+      been committed with the use of intimidation\").\n:- dynamic intimidation/1.\n#pred
+      intimidation(X) :: '@(X) has been committed with the use of intimidation'.\n#pred
+      holds(user,intimidation,X) :: 'it is provided as a fact that @(X) has been committed
+      with the use of intimidation'.\n#pred holds(user,-intimidation,X) :: 'it is
+      provided as a fact that it is not the case that @(X) has been committed with
+      the use of intimidation'.\n#pred holds(Z,intimidation,X) :: 'the conclusion
+      in @(Z) that @(X) has been committed with the use of intimidation holds'.\n#pred
+      holds(Z,-intimidation,X) :: 'the conclusion in @(Z) that it is not the case
+      that @(X) has been committed with the use of intimidation holds'.\n#pred according_to(Z,intimidation,X)
+      :: 'according to @(Z), @(X) has been committed with the use of intimidation'.\n#pred
+      according_to(Z,-intimidation,X) :: 'according to @(Z), it is not the case that
+      @(X) has been committed with the use of intimidation'.\n#pred blawx_defeated(Z,intimidation,X)
+      :: 'the conclusion in @(Z) that @(X) has been committed with the use of intimidation
+      is defeated'.\n#pred blawx_defeated(Z,-intimidation,X) :: 'the conclusion in
+      @(Z) that @(X) has been committed with the use of intimidation is defeated'.\n#pred
+      blawx_initially(intimidation(X)) :: 'that @(X) has been committed with the use
+      of intimidation holds initially'.\n#pred blawx_initially(-intimidation(X)) ::
+      'that it is not the case that @(X) has been committed with the use of intimidation
+      holds initially'.\n#pred blawx_ultimately(intimidation(X)) :: 'that @(X) has
+      been committed with the use of intimidation holds ultimately'.\n#pred blawx_ultimately(-intimidation(X))
+      :: 'that it is not the case that @(X) has been committed with the use of intimidation
+      holds ultimately'.\n#pred blawx_as_of(intimidation(X),T) :: 'that @(X) has been
+      committed with the use of intimidation holds at @(T)'.\n#pred blawx_as_of(-intimidation(X),T)
+      :: 'that it is not the case that @(X) has been committed with the use of intimidation
+      holds at @(T)'.\n#pred blawx_during(T1,intimidation(X),T2) :: 'that @(X) has
+      been committed with the use of intimidation held between @(T1) and @(T2)'.\n#pred
+      blawx_during(T1,-intimidation(X),T2) :: 'that it is not the case that @(X) has
+      been committed with the use of intimidation held between @(T1) and @(T2)'.\n#pred
+      blawx_becomes(intimidation(X),T) :: 'that @(X) has been committed with the use
+      of intimidation became true at @(T)'.\n#pred blawx_becomes(-intimidation(X),T)
+      :: 'that it is not the case that @(X) has been committed with the use of intimidation
+      became true at @(T)'.\nblawx_as_of(intimidation(X),datetime(Time)) :- blawx_becomes(intimidation(X),datetime(BeforeT)),
+      not blawx_becomes(-intimidation(X), datetime(BetweenT)), BeforeT #< Time,BeforeT
+      #< BetweenT, BetweenT #< Time.\nblawx_as_of(intimidation(X),datetime(Time))
+      :- blawx_initially(intimidation(X)), not blawx_becomes(-intimidation(X), datetime(BetweenT)),
+      BetweenT #< Time.\nblawx_during(datetime(Start),intimidation(X),datetime(End))
+      :- blawx_becomes(intimidation(X),datetime(Start)), not blawx_becomes(-intimidation(X),datetime(BeforeEnd)),
+      blawx_becomes(-intimidation(X),datetime(End)), BeforeEnd #< End, Start #< End.\nblawx_during(datetime(bot),intimidation(X),datetime(End))
+      :- blawx_initially(intimidation(X)), not blawx_becomes(-intimidation(X),datetime(BeforeEnd)),
+      blawx_becomes(-intimidation(X),datetime(End)), BeforeEnd #< End.\nblawx_during(datetime(Start),intimidation(X),datetime(eot))
+      :- blawx_becomes(intimidation(X),datetime(Start)), not blawx_becomes(-intimidation(X),datetime(AfterStart)),
+      blawx_ultimately(intimidation(X)), AfterStart #> Start.\nblawx_as_of(-intimidation(X),datetime(Time))
+      :- blawx_becomes(-intimidation(X),datetime(BeforeT)), not blawx_becomes(intimidation(X),
+      datetime(BetweenT)), BeforeT #< Time,BeforeT #< BetweenT, BetweenT #< Time.\nblawx_as_of(-intimidation(X),datetime(Time))
+      :- blawx_initially(-intimidation(X)), not blawx_becomes(intimidation(X), datetime(BetweenT)),
+      BetweenT #< Time.\nblawx_during(datetime(Start),-intimidation(X),datetime(End))
+      :- blawx_becomes(-intimidation(X),datetime(Start)), not blawx_becomes(intimidation(X),datetime(BeforeEnd)),
+      blawx_becomes(intimidation(X),datetime(End)), BeforeEnd #< End, Start #< End.\nblawx_during(datetime(bot),-intimidation(X),datetime(End))
+      :- blawx_initially(-intimidation(X)), not blawx_becomes(intimidation(X),datetime(BeforeEnd)),
+      blawx_becomes(intimidation(X),datetime(End)), BeforeEnd #< End.\nblawx_during(datetime(Start),-intimidation(X),datetime(eot))
+      :- blawx_becomes(-intimidation(X),datetime(Start)), not blawx_becomes(intimidation(X),datetime(AfterStart)),
+      blawx_ultimately(-intimidation(X)), AfterStart #> Start.\n\naccording_to(sec_1__subsec_1__para_b_section,guilty,Subject)
+      :- sexual_intercourse(Event),\nintimidation(Event),\nperson(Subject),\nalleged_offender(Event,Subject).\n\n%
+      BLAWX CHECK DUPLICATES\nholds(sec_1__subsec_1__para_b_section,guilty,Subject)
+      :- according_to(sec_1__subsec_1__para_b_section,guilty,Subject).\n\n% BLAWX
+      CHECK DUPLICATES\n  guilty(Subject) :- holds(sec_1__subsec_1__para_b_section,guilty,Subject)."
+- model: blawx.workspace
+  pk: 72
+  fields:
+    ruledoc: 7
+    workspace_name: sec_1__subsec_1__para_c_section
+    xml_content: ''
+    scasp_encoding: ''
+- model: blawx.workspace
+  pk: 73
+  fields:
+    ruledoc: 7
+    workspace_name: sec_1__subsec_1__para_c__subpara_i_section
+    xml_content: <xml xmlns="https://developers.google.com/blockly/xml"><block type="unattributed_fact"
+      id="q%r[-CFi(X,XCDfG6{Bs" x="102" y="-600"><statement name="statements"><block
+      type="new_attribute_declaration" id="iwycX-Bfr~Bh4rs}2ZIM"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person" attribute_type="boolean"></mutation><field name="category_name">person</field><field
+      name="attribute_name">position_superiority</field><field name="attribute_type">boolean</field><field
+      name="order">ov</field><field name="prefix"></field><field name="first_element">object</field><field
+      name="infix">'s attribute name is</field><field name="second_element">value</field><field
+      name="postfix">held a position of superiority</field></block></statement></block><block
+      type="attributed_rule" id="(NpkQ%5l(FyQ$s:Lh^{8" x="117" y="-437"><field name="defeasible">FALSE</field><field
+      name="inapplicable">FALSE</field><statement name="conditions"><block type="new_object_category"
+      id="|@:s},G8.wL.R/`yZLXS"><mutation xmlns="http://www.w3.org/1999/xhtml" category_name="sexual_intercourse"></mutation><field
+      name="category_name">sexual_intercourse</field><value name="object"><block type="variable"
+      id="f1g.,j=uY+`seAD*5ko$"><field name="variable_name">Event</field></block></value><next><block
+      type="new_object_category" id="udU7a*ak`Lip8=1tA_y4"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person"></mutation><field name="category_name">person</field><value
+      name="object"><block type="variable" id="sgb)~oHbZV_H##%|p[tq"><field name="variable_name">Subject</field></block></value><next><block
+      type="unary_attribute_selector" id="(0bHk%uw$[AOzg$.?3%9"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="position_superiority" attributetype="boolean"></mutation><field
+      name="prefix"></field><field name="postfix">held a position of superiority</field><value
+      name="first_element"><block type="variable" id="VG6ABlCHhbXxot:]blTV"><field
+      name="variable_name">Subject</field></block></value><next><block type="attribute_selector"
+      id="gT~A-{[1[^j.kh*h=jRw"><mutation xmlns="http://www.w3.org/1999/xhtml" attributename="alleged_offender"
+      attributetype="person" attributeorder="ov"></mutation><field name="prefix">
+      the alleged offender in</field><field name="infix">is</field><field name="postfix"></field><value
+      name="first_element"><block type="variable" id="fKUZ,cJ0FUsJ^U!8^U6g"><field
+      name="variable_name">Event</field></block></value><value name="second_element"><block
+      type="variable" id="0a#u0V-vT!MRCTPCc)01"><field name="variable_name">Subject</field></block></value></block></next></block></next></block></next></block></statement><value
+      name="source"><block type="doc_selector" id="B{gF*n%w/LQ=x]1PtAlZ"><mutation
+      xmlns="http://www.w3.org/1999/xhtml" section_reference="sec_1__subsec_1__para_c__subpara_i_section"></mutation><field
+      name="doc_part_name">CC 1.1.c.i</field></block></value><statement name="conclusion"><block
+      type="unary_attribute_selector" id="VpZO?!4YCJe5;|`B;w-4"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="guilty" attributetype="boolean"></mutation><field name="prefix"></field><field
+      name="postfix">has committed a crime of sexual assault</field><value name="first_element"><block
+      type="variable" id="(j+VL5$g{2|7=BvAiUOY"><field name="variable_name">Subject</field></block></value></block></statement></block></xml>
+    scasp_encoding: "blawx_attribute(person,position_superiority,boolean).\nblawx_attribute_nlg(position_superiority,not_applicable,\"\",not_applicable,\"held
+      a position of superiority\").\n:- dynamic position_superiority/1.\n#pred position_superiority(X)
+      :: '@(X) held a position of superiority'.\n#pred holds(user,position_superiority,X)
+      :: 'it is provided as a fact that @(X) held a position of superiority'.\n#pred
+      holds(user,-position_superiority,X) :: 'it is provided as a fact that it is
+      not the case that @(X) held a position of superiority'.\n#pred holds(Z,position_superiority,X)
+      :: 'the conclusion in @(Z) that @(X) held a position of superiority holds'.\n#pred
+      holds(Z,-position_superiority,X) :: 'the conclusion in @(Z) that it is not the
+      case that @(X) held a position of superiority holds'.\n#pred according_to(Z,position_superiority,X)
+      :: 'according to @(Z), @(X) held a position of superiority'.\n#pred according_to(Z,-position_superiority,X)
+      :: 'according to @(Z), it is not the case that @(X) held a position of superiority'.\n#pred
+      blawx_defeated(Z,position_superiority,X) :: 'the conclusion in @(Z) that @(X)
+      held a position of superiority is defeated'.\n#pred blawx_defeated(Z,-position_superiority,X)
+      :: 'the conclusion in @(Z) that @(X) held a position of superiority is defeated'.\n#pred
+      blawx_initially(position_superiority(X)) :: 'that @(X) held a position of superiority
+      holds initially'.\n#pred blawx_initially(-position_superiority(X)) :: 'that
+      it is not the case that @(X) held a position of superiority holds initially'.\n#pred
+      blawx_ultimately(position_superiority(X)) :: 'that @(X) held a position of superiority
+      holds ultimately'.\n#pred blawx_ultimately(-position_superiority(X)) :: 'that
+      it is not the case that @(X) held a position of superiority holds ultimately'.\n#pred
+      blawx_as_of(position_superiority(X),T) :: 'that @(X) held a position of superiority
+      holds at @(T)'.\n#pred blawx_as_of(-position_superiority(X),T) :: 'that it is
+      not the case that @(X) held a position of superiority holds at @(T)'.\n#pred
+      blawx_during(T1,position_superiority(X),T2) :: 'that @(X) held a position of
+      superiority held between @(T1) and @(T2)'.\n#pred blawx_during(T1,-position_superiority(X),T2)
+      :: 'that it is not the case that @(X) held a position of superiority held between
+      @(T1) and @(T2)'.\n#pred blawx_becomes(position_superiority(X),T) :: 'that @(X)
+      held a position of superiority became true at @(T)'.\n#pred blawx_becomes(-position_superiority(X),T)
+      :: 'that it is not the case that @(X) held a position of superiority became
+      true at @(T)'.\nblawx_as_of(position_superiority(X),datetime(Time)) :- blawx_becomes(position_superiority(X),datetime(BeforeT)),
+      not blawx_becomes(-position_superiority(X), datetime(BetweenT)), BeforeT #<
+      Time,BeforeT #< BetweenT, BetweenT #< Time.\nblawx_as_of(position_superiority(X),datetime(Time))
+      :- blawx_initially(position_superiority(X)), not blawx_becomes(-position_superiority(X),
+      datetime(BetweenT)), BetweenT #< Time.\nblawx_during(datetime(Start),position_superiority(X),datetime(End))
+      :- blawx_becomes(position_superiority(X),datetime(Start)), not blawx_becomes(-position_superiority(X),datetime(BeforeEnd)),
+      blawx_becomes(-position_superiority(X),datetime(End)), BeforeEnd #< End, Start
+      #< End.\nblawx_during(datetime(bot),position_superiority(X),datetime(End)) :-
+      blawx_initially(position_superiority(X)), not blawx_becomes(-position_superiority(X),datetime(BeforeEnd)),
+      blawx_becomes(-position_superiority(X),datetime(End)), BeforeEnd #< End.\nblawx_during(datetime(Start),position_superiority(X),datetime(eot))
+      :- blawx_becomes(position_superiority(X),datetime(Start)), not blawx_becomes(-position_superiority(X),datetime(AfterStart)),
+      blawx_ultimately(position_superiority(X)), AfterStart #> Start.\nblawx_as_of(-position_superiority(X),datetime(Time))
+      :- blawx_becomes(-position_superiority(X),datetime(BeforeT)), not blawx_becomes(position_superiority(X),
+      datetime(BetweenT)), BeforeT #< Time,BeforeT #< BetweenT, BetweenT #< Time.\nblawx_as_of(-position_superiority(X),datetime(Time))
+      :- blawx_initially(-position_superiority(X)), not blawx_becomes(position_superiority(X),
+      datetime(BetweenT)), BetweenT #< Time.\nblawx_during(datetime(Start),-position_superiority(X),datetime(End))
+      :- blawx_becomes(-position_superiority(X),datetime(Start)), not blawx_becomes(position_superiority(X),datetime(BeforeEnd)),
+      blawx_becomes(position_superiority(X),datetime(End)), BeforeEnd #< End, Start
+      #< End.\nblawx_during(datetime(bot),-position_superiority(X),datetime(End))
+      :- blawx_initially(-position_superiority(X)), not blawx_becomes(position_superiority(X),datetime(BeforeEnd)),
+      blawx_becomes(position_superiority(X),datetime(End)), BeforeEnd #< End.\nblawx_during(datetime(Start),-position_superiority(X),datetime(eot))
+      :- blawx_becomes(-position_superiority(X),datetime(Start)), not blawx_becomes(position_superiority(X),datetime(AfterStart)),
+      blawx_ultimately(-position_superiority(X)), AfterStart #> Start.\n\naccording_to(sec_1__subsec_1__para_c__subpara_i_section,guilty,Subject)
+      :- sexual_intercourse(Event),\nperson(Subject),\nposition_superiority(Subject),\nalleged_offender(Event,Subject).\n\n%
+      BLAWX CHECK DUPLICATES\nholds(sec_1__subsec_1__para_c__subpara_i_section,guilty,Subject)
+      :- according_to(sec_1__subsec_1__para_c__subpara_i_section,guilty,Subject).\n\n%
+      BLAWX CHECK DUPLICATES\n  guilty(Subject) :- holds(sec_1__subsec_1__para_c__subpara_i_section,guilty,Subject)."
+- model: blawx.workspace
+  pk: 74
+  fields:
+    ruledoc: 7
+    workspace_name: sec_1__subsec_1__para_c__subpara_ii_section
+    xml_content: <xml xmlns="https://developers.google.com/blockly/xml"><block type="unattributed_fact"
+      id="q%r[-CFi(X,XCDfG6{Bs" x="102" y="-600"><statement name="statements"><block
+      type="new_attribute_declaration" id="iwycX-Bfr~Bh4rs}2ZIM"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person" attribute_type="boolean"></mutation><field name="category_name">person</field><field
+      name="attribute_name">vulnerable_position</field><field name="attribute_type">boolean</field><field
+      name="order">ov</field><field name="prefix"></field><field name="first_element">object</field><field
+      name="infix">'s attribute name is</field><field name="second_element">value</field><field
+      name="postfix">was in a vulnerable position</field></block></statement></block><block
+      type="attributed_rule" id="(NpkQ%5l(FyQ$s:Lh^{8" x="87" y="-412"><field name="defeasible">FALSE</field><field
+      name="inapplicable">FALSE</field><statement name="conditions"><block type="new_object_category"
+      id="|@:s},G8.wL.R/`yZLXS"><mutation xmlns="http://www.w3.org/1999/xhtml" category_name="sexual_intercourse"></mutation><field
+      name="category_name">sexual_intercourse</field><value name="object"><block type="variable"
+      id="f1g.,j=uY+`seAD*5ko$"><field name="variable_name">Event</field></block></value><next><block
+      type="new_object_category" id="udU7a*ak`Lip8=1tA_y4"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person"></mutation><field name="category_name">person</field><value
+      name="object"><block type="variable" id="sgb)~oHbZV_H##%|p[tq"><field name="variable_name">Subject</field></block></value><next><block
+      type="new_object_category" id="j$mWeuq+wUDOr$Djs{{Z"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person"></mutation><field name="category_name">person</field><value
+      name="object"><block type="variable" id="REi.db.y-#]4`DIyWtt/"><field name="variable_name">Victim</field></block></value><next><block
+      type="unary_attribute_selector" id=")r{+zL}qUN|.~`StB2Sl"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="vulnerable_position" attributetype="boolean"></mutation><field
+      name="prefix"></field><field name="postfix">was in a vulnerable position</field><value
+      name="first_element"><block type="variable" id="?Q{!4+Opc.7NnbWnUEZ1"><field
+      name="variable_name">Victim</field></block></value><next><block type="attribute_selector"
+      id="nIj@q:0-cv!!wwa9I-tb"><mutation xmlns="http://www.w3.org/1999/xhtml" attributename="victim"
+      attributetype="person" attributeorder="ov"></mutation><field name="prefix">the
+      victim in</field><field name="infix">is</field><field name="postfix"></field><value
+      name="first_element"><block type="variable" id="!I]P[DN_DyTa`iErpZ!/"><field
+      name="variable_name">Event</field></block></value><value name="second_element"><block
+      type="variable" id="+c/~Z|0gcZRM|B6?K6Bb"><field name="variable_name">Victim</field></block></value><next><block
+      type="attribute_selector" id="oj-+FmvcQ09T`vnGvzZJ"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="alleged_offender" attributetype="person" attributeorder="ov"></mutation><field
+      name="prefix"> the alleged offender in</field><field name="infix">is</field><field
+      name="postfix"></field><value name="first_element"><block type="variable" id="nMF,SqSBP!Mr)[,!^ptj"><field
+      name="variable_name">Event</field></block></value><value name="second_element"><block
+      type="variable" id="^Ze3N:BcWZO=1K3C^XMG"><field name="variable_name">Subject</field></block></value></block></next></block></next></block></next></block></next></block></next></block></statement><value
+      name="source"><block type="doc_selector" id="{ceEsg=Z=?tFqMfh48Hl"><mutation
+      xmlns="http://www.w3.org/1999/xhtml" section_reference="sec_1__subsec_1__para_c__subpara_ii_section"></mutation><field
+      name="doc_part_name">CC 1.1.c.ii</field></block></value><statement name="conclusion"><block
+      type="unary_attribute_selector" id="VpZO?!4YCJe5;|`B;w-4"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="guilty" attributetype="boolean"></mutation><field name="prefix"></field><field
+      name="postfix">has committed a crime of sexual assault</field><value name="first_element"><block
+      type="variable" id="(j+VL5$g{2|7=BvAiUOY"><field name="variable_name">Subject</field></block></value></block></statement></block></xml>
+    scasp_encoding: "blawx_attribute(person,vulnerable_position,boolean).\nblawx_attribute_nlg(vulnerable_position,not_applicable,\"\",not_applicable,\"was
+      in a vulnerable position\").\n:- dynamic vulnerable_position/1.\n#pred vulnerable_position(X)
+      :: '@(X) was in a vulnerable position'.\n#pred holds(user,vulnerable_position,X)
+      :: 'it is provided as a fact that @(X) was in a vulnerable position'.\n#pred
+      holds(user,-vulnerable_position,X) :: 'it is provided as a fact that it is not
+      the case that @(X) was in a vulnerable position'.\n#pred holds(Z,vulnerable_position,X)
+      :: 'the conclusion in @(Z) that @(X) was in a vulnerable position holds'.\n#pred
+      holds(Z,-vulnerable_position,X) :: 'the conclusion in @(Z) that it is not the
+      case that @(X) was in a vulnerable position holds'.\n#pred according_to(Z,vulnerable_position,X)
+      :: 'according to @(Z), @(X) was in a vulnerable position'.\n#pred according_to(Z,-vulnerable_position,X)
+      :: 'according to @(Z), it is not the case that @(X) was in a vulnerable position'.\n#pred
+      blawx_defeated(Z,vulnerable_position,X) :: 'the conclusion in @(Z) that @(X)
+      was in a vulnerable position is defeated'.\n#pred blawx_defeated(Z,-vulnerable_position,X)
+      :: 'the conclusion in @(Z) that @(X) was in a vulnerable position is defeated'.\n#pred
+      blawx_initially(vulnerable_position(X)) :: 'that @(X) was in a vulnerable position
+      holds initially'.\n#pred blawx_initially(-vulnerable_position(X)) :: 'that it
+      is not the case that @(X) was in a vulnerable position holds initially'.\n#pred
+      blawx_ultimately(vulnerable_position(X)) :: 'that @(X) was in a vulnerable position
+      holds ultimately'.\n#pred blawx_ultimately(-vulnerable_position(X)) :: 'that
+      it is not the case that @(X) was in a vulnerable position holds ultimately'.\n#pred
+      blawx_as_of(vulnerable_position(X),T) :: 'that @(X) was in a vulnerable position
+      holds at @(T)'.\n#pred blawx_as_of(-vulnerable_position(X),T) :: 'that it is
+      not the case that @(X) was in a vulnerable position holds at @(T)'.\n#pred blawx_during(T1,vulnerable_position(X),T2)
+      :: 'that @(X) was in a vulnerable position held between @(T1) and @(T2)'.\n#pred
+      blawx_during(T1,-vulnerable_position(X),T2) :: 'that it is not the case that
+      @(X) was in a vulnerable position held between @(T1) and @(T2)'.\n#pred blawx_becomes(vulnerable_position(X),T)
+      :: 'that @(X) was in a vulnerable position became true at @(T)'.\n#pred blawx_becomes(-vulnerable_position(X),T)
+      :: 'that it is not the case that @(X) was in a vulnerable position became true
+      at @(T)'.\nblawx_as_of(vulnerable_position(X),datetime(Time)) :- blawx_becomes(vulnerable_position(X),datetime(BeforeT)),
+      not blawx_becomes(-vulnerable_position(X), datetime(BetweenT)), BeforeT #< Time,BeforeT
+      #< BetweenT, BetweenT #< Time.\nblawx_as_of(vulnerable_position(X),datetime(Time))
+      :- blawx_initially(vulnerable_position(X)), not blawx_becomes(-vulnerable_position(X),
+      datetime(BetweenT)), BetweenT #< Time.\nblawx_during(datetime(Start),vulnerable_position(X),datetime(End))
+      :- blawx_becomes(vulnerable_position(X),datetime(Start)), not blawx_becomes(-vulnerable_position(X),datetime(BeforeEnd)),
+      blawx_becomes(-vulnerable_position(X),datetime(End)), BeforeEnd #< End, Start
+      #< End.\nblawx_during(datetime(bot),vulnerable_position(X),datetime(End)) :-
+      blawx_initially(vulnerable_position(X)), not blawx_becomes(-vulnerable_position(X),datetime(BeforeEnd)),
+      blawx_becomes(-vulnerable_position(X),datetime(End)), BeforeEnd #< End.\nblawx_during(datetime(Start),vulnerable_position(X),datetime(eot))
+      :- blawx_becomes(vulnerable_position(X),datetime(Start)), not blawx_becomes(-vulnerable_position(X),datetime(AfterStart)),
+      blawx_ultimately(vulnerable_position(X)), AfterStart #> Start.\nblawx_as_of(-vulnerable_position(X),datetime(Time))
+      :- blawx_becomes(-vulnerable_position(X),datetime(BeforeT)), not blawx_becomes(vulnerable_position(X),
+      datetime(BetweenT)), BeforeT #< Time,BeforeT #< BetweenT, BetweenT #< Time.\nblawx_as_of(-vulnerable_position(X),datetime(Time))
+      :- blawx_initially(-vulnerable_position(X)), not blawx_becomes(vulnerable_position(X),
+      datetime(BetweenT)), BetweenT #< Time.\nblawx_during(datetime(Start),-vulnerable_position(X),datetime(End))
+      :- blawx_becomes(-vulnerable_position(X),datetime(Start)), not blawx_becomes(vulnerable_position(X),datetime(BeforeEnd)),
+      blawx_becomes(vulnerable_position(X),datetime(End)), BeforeEnd #< End, Start
+      #< End.\nblawx_during(datetime(bot),-vulnerable_position(X),datetime(End)) :-
+      blawx_initially(-vulnerable_position(X)), not blawx_becomes(vulnerable_position(X),datetime(BeforeEnd)),
+      blawx_becomes(vulnerable_position(X),datetime(End)), BeforeEnd #< End.\nblawx_during(datetime(Start),-vulnerable_position(X),datetime(eot))
+      :- blawx_becomes(-vulnerable_position(X),datetime(Start)), not blawx_becomes(vulnerable_position(X),datetime(AfterStart)),
+      blawx_ultimately(-vulnerable_position(X)), AfterStart #> Start.\n\naccording_to(sec_1__subsec_1__para_c__subpara_ii_section,guilty,Subject)
+      :- sexual_intercourse(Event),\nperson(Subject),\nperson(Victim),\nvulnerable_position(Victim),\nvictim(Event,Victim),\nalleged_offender(Event,Subject).\n\n%
+      BLAWX CHECK DUPLICATES\nholds(sec_1__subsec_1__para_c__subpara_ii_section,guilty,Subject)
+      :- according_to(sec_1__subsec_1__para_c__subpara_ii_section,guilty,Subject).\n\n%
+      BLAWX CHECK DUPLICATES\n  guilty(Subject) :- holds(sec_1__subsec_1__para_c__subpara_ii_section,guilty,Subject)."
+- model: blawx.workspace
+  pk: 75
+  fields:
+    ruledoc: 7
+    workspace_name: sec_1__subsec_1__para_d__subpara_i_section
+    xml_content: <xml xmlns="https://developers.google.com/blockly/xml"><block type="unattributed_fact"
+      id="q%r[-CFi(X,XCDfG6{Bs" x="130" y="-544"><statement name="statements"><block
+      type="new_attribute_declaration" id="iwycX-Bfr~Bh4rs}2ZIM"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person" attribute_type="boolean"></mutation><field name="category_name">person</field><field
+      name="attribute_name">unable</field><field name="attribute_type">boolean</field><field
+      name="order">ov</field><field name="prefix"></field><field name="first_element">object</field><field
+      name="infix">'s attribute name is</field><field name="second_element">value</field><field
+      name="postfix">was unable to act independently</field></block></statement></block><block
+      type="attributed_rule" id="(NpkQ%5l(FyQ$s:Lh^{8" x="115" y="-356"><field name="defeasible">FALSE</field><field
+      name="inapplicable">FALSE</field><statement name="conditions"><block type="new_object_category"
+      id="|@:s},G8.wL.R/`yZLXS"><mutation xmlns="http://www.w3.org/1999/xhtml" category_name="sexual_intercourse"></mutation><field
+      name="category_name">sexual_intercourse</field><value name="object"><block type="variable"
+      id="f1g.,j=uY+`seAD*5ko$"><field name="variable_name">Event</field></block></value><next><block
+      type="new_object_category" id="udU7a*ak`Lip8=1tA_y4"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person"></mutation><field name="category_name">person</field><value
+      name="object"><block type="variable" id="sgb)~oHbZV_H##%|p[tq"><field name="variable_name">Subject</field></block></value><next><block
+      type="new_object_category" id="j$mWeuq+wUDOr$Djs{{Z"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person"></mutation><field name="category_name">person</field><value
+      name="object"><block type="variable" id="REi.db.y-#]4`DIyWtt/"><field name="variable_name">Victim</field></block></value><next><block
+      type="attribute_selector" id="nIj@q:0-cv!!wwa9I-tb"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="victim" attributetype="person" attributeorder="ov"></mutation><field
+      name="prefix">the victim in</field><field name="infix">is</field><field name="postfix"></field><value
+      name="first_element"><block type="variable" id="!I]P[DN_DyTa`iErpZ!/"><field
+      name="variable_name">Event</field></block></value><value name="second_element"><block
+      type="variable" id="+c/~Z|0gcZRM|B6?K6Bb"><field name="variable_name">Victim</field></block></value><next><block
+      type="attribute_selector" id="oj-+FmvcQ09T`vnGvzZJ"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="alleged_offender" attributetype="person" attributeorder="ov"></mutation><field
+      name="prefix"> the alleged offender in</field><field name="infix">is</field><field
+      name="postfix"></field><value name="first_element"><block type="variable" id="nMF,SqSBP!Mr)[,!^ptj"><field
+      name="variable_name">Event</field></block></value><value name="second_element"><block
+      type="variable" id="^Ze3N:BcWZO=1K3C^XMG"><field name="variable_name">Subject</field></block></value><next><block
+      type="unary_attribute_selector" id="BuTk3zdPMlBD9P#aWxE^"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="unable" attributetype="boolean"></mutation><field name="prefix"></field><field
+      name="postfix">was unable to act independently</field><value name="first_element"><block
+      type="variable" id="?Q{!4+Opc.7NnbWnUEZ1"><field name="variable_name">Victim</field></block></value></block></next></block></next></block></next></block></next></block></next></block></statement><value
+      name="source"><block type="doc_selector" id="?|_ZJ/fB`V%5BMpRUudm"><mutation
+      xmlns="http://www.w3.org/1999/xhtml" section_reference="sec_1__subsec_1__para_d__subpara_i_section"></mutation><field
+      name="doc_part_name">CC 1.1.d.i</field></block></value><statement name="conclusion"><block
+      type="unary_attribute_selector" id="VpZO?!4YCJe5;|`B;w-4"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="guilty" attributetype="boolean"></mutation><field name="prefix"></field><field
+      name="postfix">has committed a crime of sexual assault</field><value name="first_element"><block
+      type="variable" id="(j+VL5$g{2|7=BvAiUOY"><field name="variable_name">Subject</field></block></value></block></statement></block></xml>
+    scasp_encoding: "blawx_attribute(person,unable,boolean).\nblawx_attribute_nlg(unable,not_applicable,\"\",not_applicable,\"was
+      unable to act independently\").\n:- dynamic unable/1.\n#pred unable(X) :: '@(X)
+      was unable to act independently'.\n#pred holds(user,unable,X) :: 'it is provided
+      as a fact that @(X) was unable to act independently'.\n#pred holds(user,-unable,X)
+      :: 'it is provided as a fact that it is not the case that @(X) was unable to
+      act independently'.\n#pred holds(Z,unable,X) :: 'the conclusion in @(Z) that
+      @(X) was unable to act independently holds'.\n#pred holds(Z,-unable,X) :: 'the
+      conclusion in @(Z) that it is not the case that @(X) was unable to act independently
+      holds'.\n#pred according_to(Z,unable,X) :: 'according to @(Z), @(X) was unable
+      to act independently'.\n#pred according_to(Z,-unable,X) :: 'according to @(Z),
+      it is not the case that @(X) was unable to act independently'.\n#pred blawx_defeated(Z,unable,X)
+      :: 'the conclusion in @(Z) that @(X) was unable to act independently is defeated'.\n#pred
+      blawx_defeated(Z,-unable,X) :: 'the conclusion in @(Z) that @(X) was unable
+      to act independently is defeated'.\n#pred blawx_initially(unable(X)) :: 'that
+      @(X) was unable to act independently holds initially'.\n#pred blawx_initially(-unable(X))
+      :: 'that it is not the case that @(X) was unable to act independently holds
+      initially'.\n#pred blawx_ultimately(unable(X)) :: 'that @(X) was unable to act
+      independently holds ultimately'.\n#pred blawx_ultimately(-unable(X)) :: 'that
+      it is not the case that @(X) was unable to act independently holds ultimately'.\n#pred
+      blawx_as_of(unable(X),T) :: 'that @(X) was unable to act independently holds
+      at @(T)'.\n#pred blawx_as_of(-unable(X),T) :: 'that it is not the case that
+      @(X) was unable to act independently holds at @(T)'.\n#pred blawx_during(T1,unable(X),T2)
+      :: 'that @(X) was unable to act independently held between @(T1) and @(T2)'.\n#pred
+      blawx_during(T1,-unable(X),T2) :: 'that it is not the case that @(X) was unable
+      to act independently held between @(T1) and @(T2)'.\n#pred blawx_becomes(unable(X),T)
+      :: 'that @(X) was unable to act independently became true at @(T)'.\n#pred blawx_becomes(-unable(X),T)
+      :: 'that it is not the case that @(X) was unable to act independently became
+      true at @(T)'.\nblawx_as_of(unable(X),datetime(Time)) :- blawx_becomes(unable(X),datetime(BeforeT)),
+      not blawx_becomes(-unable(X), datetime(BetweenT)), BeforeT #< Time,BeforeT #<
+      BetweenT, BetweenT #< Time.\nblawx_as_of(unable(X),datetime(Time)) :- blawx_initially(unable(X)),
+      not blawx_becomes(-unable(X), datetime(BetweenT)), BetweenT #< Time.\nblawx_during(datetime(Start),unable(X),datetime(End))
+      :- blawx_becomes(unable(X),datetime(Start)), not blawx_becomes(-unable(X),datetime(BeforeEnd)),
+      blawx_becomes(-unable(X),datetime(End)), BeforeEnd #< End, Start #< End.\nblawx_during(datetime(bot),unable(X),datetime(End))
+      :- blawx_initially(unable(X)), not blawx_becomes(-unable(X),datetime(BeforeEnd)),
+      blawx_becomes(-unable(X),datetime(End)), BeforeEnd #< End.\nblawx_during(datetime(Start),unable(X),datetime(eot))
+      :- blawx_becomes(unable(X),datetime(Start)), not blawx_becomes(-unable(X),datetime(AfterStart)),
+      blawx_ultimately(unable(X)), AfterStart #> Start.\nblawx_as_of(-unable(X),datetime(Time))
+      :- blawx_becomes(-unable(X),datetime(BeforeT)), not blawx_becomes(unable(X),
+      datetime(BetweenT)), BeforeT #< Time,BeforeT #< BetweenT, BetweenT #< Time.\nblawx_as_of(-unable(X),datetime(Time))
+      :- blawx_initially(-unable(X)), not blawx_becomes(unable(X), datetime(BetweenT)),
+      BetweenT #< Time.\nblawx_during(datetime(Start),-unable(X),datetime(End)) :-
+      blawx_becomes(-unable(X),datetime(Start)), not blawx_becomes(unable(X),datetime(BeforeEnd)),
+      blawx_becomes(unable(X),datetime(End)), BeforeEnd #< End, Start #< End.\nblawx_during(datetime(bot),-unable(X),datetime(End))
+      :- blawx_initially(-unable(X)), not blawx_becomes(unable(X),datetime(BeforeEnd)),
+      blawx_becomes(unable(X),datetime(End)), BeforeEnd #< End.\nblawx_during(datetime(Start),-unable(X),datetime(eot))
+      :- blawx_becomes(-unable(X),datetime(Start)), not blawx_becomes(unable(X),datetime(AfterStart)),
+      blawx_ultimately(-unable(X)), AfterStart #> Start.\n\naccording_to(sec_1__subsec_1__para_d__subpara_i_section,guilty,Subject)
+      :- sexual_intercourse(Event),\nperson(Subject),\nperson(Victim),\nvictim(Event,Victim),\nalleged_offender(Event,Subject),\nunable(Victim).\n\n%
+      BLAWX CHECK DUPLICATES\nholds(sec_1__subsec_1__para_d__subpara_i_section,guilty,Subject)
+      :- according_to(sec_1__subsec_1__para_d__subpara_i_section,guilty,Subject).\n\n%
+      BLAWX CHECK DUPLICATES\n  guilty(Subject) :- holds(sec_1__subsec_1__para_d__subpara_i_section,guilty,Subject)."
+- model: blawx.workspace
+  pk: 76
+  fields:
+    ruledoc: 7
+    workspace_name: sec_1__subsec_1__para_d__subpara_ii_section
+    xml_content: <xml xmlns="https://developers.google.com/blockly/xml"><block type="unattributed_fact"
+      id="q%r[-CFi(X,XCDfG6{Bs" x="130" y="-544"><statement name="statements"><block
+      type="new_attribute_declaration" id="iwycX-Bfr~Bh4rs}2ZIM"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person" category_list="[[&quot;person&quot;,&quot;person&quot;],[&quot;sexual_intercourse&quot;,&quot;sexual_intercourse&quot;]]"
+      attribute_type="boolean" attribute_list="[[&quot;true / false&quot;,&quot;boolean&quot;],[&quot;number&quot;,&quot;number&quot;],[&quot;date&quot;,&quot;date&quot;],[&quot;time&quot;,&quot;time&quot;],[&quot;datetime&quot;,&quot;datetime&quot;],[&quot;duration&quot;,&quot;duration&quot;],[&quot;list&quot;,&quot;list&quot;],[&quot;person&quot;,&quot;person&quot;],[&quot;sexual_intercourse&quot;,&quot;sexual_intercourse&quot;]]"></mutation><field
+      name="category_name">person</field><field name="attribute_name">mental_situation</field><field
+      name="attribute_type">boolean</field><field name="order">ov</field><field name="prefix"></field><field
+      name="first_element">object</field><field name="infix">'s attribute name is</field><field
+      name="second_element">value</field><field name="postfix">'s mental situation
+      was abused</field></block></statement></block><block type="attributed_rule"
+      id="(NpkQ%5l(FyQ$s:Lh^{8" x="127" y="-414"><field name="defeasible">FALSE</field><field
+      name="inapplicable">FALSE</field><statement name="conditions"><block type="new_object_category"
+      id="|@:s},G8.wL.R/`yZLXS"><mutation xmlns="http://www.w3.org/1999/xhtml" category_name="sexual_intercourse"
+      category_list="[[&quot;person&quot;,&quot;person&quot;],[&quot;sexual_intercourse&quot;,&quot;sexual_intercourse&quot;]]"></mutation><field
+      name="category_name">sexual_intercourse</field><value name="object"><block type="variable"
+      id="f1g.,j=uY+`seAD*5ko$"><field name="variable_name">Act</field></block></value><next><block
+      type="new_object_category" id="udU7a*ak`Lip8=1tA_y4"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person" category_list="[[&quot;person&quot;,&quot;person&quot;],[&quot;sexual_intercourse&quot;,&quot;sexual_intercourse&quot;]]"></mutation><field
+      name="category_name">person</field><value name="object"><block type="variable"
+      id="sgb)~oHbZV_H##%|p[tq"><field name="variable_name">Subject</field></block></value><next><block
+      type="new_object_category" id="j$mWeuq+wUDOr$Djs{{Z"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person" category_list="[[&quot;person&quot;,&quot;person&quot;],[&quot;sexual_intercourse&quot;,&quot;sexual_intercourse&quot;]]"></mutation><field
+      name="category_name">person</field><value name="object"><block type="variable"
+      id="REi.db.y-#]4`DIyWtt/"><field name="variable_name">Victim</field></block></value><next><block
+      type="attribute_selector" id="nIj@q:0-cv!!wwa9I-tb"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="victim" attributetype="person" attributeorder="ov"></mutation><field
+      name="prefix">the victim in</field><field name="infix">is</field><field name="postfix"></field><value
+      name="first_element"><block type="variable" id="!I]P[DN_DyTa`iErpZ!/"><field
+      name="variable_name">Act</field></block></value><value name="second_element"><block
+      type="variable" id="+c/~Z|0gcZRM|B6?K6Bb"><field name="variable_name">Victim</field></block></value><next><block
+      type="attribute_selector" id="oj-+FmvcQ09T`vnGvzZJ"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="alleged_offender" attributetype="person" attributeorder="ov"></mutation><field
+      name="prefix"> the alleged offender in</field><field name="infix">is</field><field
+      name="postfix"></field><value name="first_element"><block type="variable" id="nMF,SqSBP!Mr)[,!^ptj"><field
+      name="variable_name">Act</field></block></value><value name="second_element"><block
+      type="variable" id="^Ze3N:BcWZO=1K3C^XMG"><field name="variable_name">Subject</field></block></value><next><block
+      type="unary_attribute_selector" id="aU4oA108j#li(S7]X91~"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="mental_situation" attributetype="boolean"></mutation><field name="prefix"></field><field
+      name="postfix">'s mental situation was abused</field><value name="first_element"><block
+      type="variable" id="?Q{!4+Opc.7NnbWnUEZ1"><field name="variable_name">Victim</field></block></value></block></next></block></next></block></next></block></next></block></next></block></statement><value
+      name="source"><block type="doc_selector" id="?PO$H|@rE|q,W;!n-0h;"><mutation
+      xmlns="http://www.w3.org/1999/xhtml" section_reference="sec_1__subsec_1__para_d__subpara_ii_section"></mutation><field
+      name="doc_part_name">CC 1.1.d.ii</field></block></value><statement name="conclusion"><block
+      type="unary_attribute_selector" id="VpZO?!4YCJe5;|`B;w-4"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="guilty" attributetype="boolean"></mutation><field name="prefix"></field><field
+      name="postfix">has committed a crime of sexual assault</field><value name="first_element"><block
+      type="variable" id="(j+VL5$g{2|7=BvAiUOY"><field name="variable_name">Subject</field></block></value></block></statement></block></xml>
+    scasp_encoding: "blawx_attribute(person,mental_situation,boolean).\nblawx_attribute_nlg(mental_situation,not_applicable,\"\",not_applicable,\"'s
+      mental situation was abused\").\n:- dynamic mental_situation/1.\n#pred mental_situation(X)
+      :: '@(X) \\'s mental situation was abused'.\n#pred holds(user,mental_situation,X)
+      :: 'it is provided as a fact that @(X) \\'s mental situation was abused'.\n#pred
+      holds(user,-mental_situation,X) :: 'it is provided as a fact that it is not
+      the case that @(X) \\'s mental situation was abused'.\n#pred holds(Z,mental_situation,X)
+      :: 'the conclusion in @(Z) that @(X) \\'s mental situation was abused holds'.\n#pred
+      holds(Z,-mental_situation,X) :: 'the conclusion in @(Z) that it is not the case
+      that @(X) \\'s mental situation was abused holds'.\n#pred according_to(Z,mental_situation,X)
+      :: 'according to @(Z), @(X) \\'s mental situation was abused'.\n#pred according_to(Z,-mental_situation,X)
+      :: 'according to @(Z), it is not the case that @(X) \\'s mental situation was
+      abused'.\n#pred blawx_defeated(Z,mental_situation,X) :: 'the conclusion in @(Z)
+      that @(X) \\'s mental situation was abused is defeated'.\n#pred blawx_defeated(Z,-mental_situation,X)
+      :: 'the conclusion in @(Z) that @(X) \\'s mental situation was abused is defeated'.\n#pred
+      blawx_initially(mental_situation(X)) :: 'that @(X) \\'s mental situation was
+      abused holds initially'.\n#pred blawx_initially(-mental_situation(X)) :: 'that
+      it is not the case that @(X) \\'s mental situation was abused holds initially'.\n#pred
+      blawx_ultimately(mental_situation(X)) :: 'that @(X) \\'s mental situation was
+      abused holds ultimately'.\n#pred blawx_ultimately(-mental_situation(X)) :: 'that
+      it is not the case that @(X) \\'s mental situation was abused holds ultimately'.\n#pred
+      blawx_as_of(mental_situation(X),T) :: 'that @(X) \\'s mental situation was abused
+      holds at @(T)'.\n#pred blawx_as_of(-mental_situation(X),T) :: 'that it is not
+      the case that @(X) \\'s mental situation was abused holds at @(T)'.\n#pred blawx_during(T1,mental_situation(X),T2)
+      :: 'that @(X) \\'s mental situation was abused held between @(T1) and @(T2)'.\n#pred
+      blawx_during(T1,-mental_situation(X),T2) :: 'that it is not the case that @(X)
+      \\'s mental situation was abused held between @(T1) and @(T2)'.\n#pred blawx_becomes(mental_situation(X),T)
+      :: 'that @(X) \\'s mental situation was abused became true at @(T)'.\n#pred
+      blawx_becomes(-mental_situation(X),T) :: 'that it is not the case that @(X)
+      \\'s mental situation was abused became true at @(T)'.\n#pred blawx_not_interrupted(Start,mental_situation(X),End)
+      :: '@(X) \\'s mental situation was abused remained the case between @(Start)
+      and @(End)'.\n#pred blawx_not_interrupted(Start,-mental_situation(X),End) ::
+      'it is not the case that @(X) \\'s mental situation was abused remained the
+      case between @(Start) and @(End)'.\nblawx_not_interrupted(datetime(Start),mental_situation(X),datetime(End))
+      :- Start \\= bot, End \\= eot, findall(Time,blawx_becomes(-mental_situation(X),datetime(Time)),Times),blawx_list_not_between(Times,Start,End).\nblawx_not_interrupted(datetime(Start),-mental_situation(X),datetime(End))
+      :- Start \\= bot, End \\= eot, findall(Time,blawx_becomes(mental_situation(X),datetime(Time)),Times),blawx_list_not_between(Times,Start,End).\nblawx_not_interrupted(datetime(bot),mental_situation(X),datetime(End))
+      :- End \\= eot, findall(Time,blawx_becomes(-mental_situation(X),datetime(Time)),Times),blawx_list_not_before(Times,End).\nblawx_not_interrupted(datetime(bot),-mental_situation(X),datetime(End))
+      :- End \\= eot, findall(Time,blawx_becomes(mental_situation(X),datetime(Time)),Times),blawx_list_not_before(Times,End).\nblawx_not_interrupted(datetime(Start),mental_situation(X),datetime(eot))
+      :- Start \\= bot, findall(Time,blawx_becomes(-mental_situation(X),datetime(Time)),Times),blawx_list_not_after(Times,Start).\nblawx_not_interrupted(datetime(Start),-mental_situation(X),datetime(eot))
+      :- Start \\= bot, findall(Time,blawx_becomes(mental_situation(X),datetime(Time)),Times),blawx_list_not_after(Times,Start).\nblawx_not_interrupted(datetime(bot),mental_situation(X),datetime(eot))
+      :- blawx_initially(mental_situation(X)), blawx_ultimately(mental_situation(X)),
+      findall(Time,blawx_becomes(-mental_situation(X),datetime(Time)),[]).\nblawx_not_interrupted(datetime(bot),-mental_situation(X),datetime(eot))
+      :- blawx_initially(-mental_situation(X)), blawx_ultimately(-mental_situation(X)),
+      findall(Time,blawx_becomes(mental_situation(X),datetime(Time)),[]).\nblawx_as_of(mental_situation(X),datetime(Time))
+      :- blawx_initially(mental_situation(X)), BeforeT #< Time,blawx_not_interrupted(datetime(bot),mental_situation(X),datetime(BeforeT)).\nblawx_as_of(mental_situation(X),datetime(Time))
+      :- blawx_becomes(mental_situation(X),datetime(BeforeT)),BeforeT #< Time,blawx_not_interrupted(datetime(BeforeT),mental_situation(X),datetime(Time)).\nblawx_as_of(-mental_situation(X),datetime(Time))
+      :- blawx_initially(-mental_situation(X)), BeforeT #< Time,blawx_not_interrupted(datetime(bot),-mental_situation(X),datetime(BeforeT)).\nblawx_as_of(-mental_situation(X),datetime(Time))
+      :- blawx_becomes(-mental_situation(X),datetime(BeforeT)),BeforeT #< Time,blawx_not_interrupted(datetime(BeforeT),-mental_situation(X),datetime(Time)).\nblawx_during(datetime(Start),mental_situation(X),datetime(End))
+      :- blawx_becomes(mental_situation(X),datetime(Start)), blawx_becomes(-mental_situation(X),datetime(End)),
+      Start #< End, blawx_not_interrupted(datetime(Start),mental_situation(X),datetime(End)).\nblawx_during(datetime(bot),mental_situation(X),datetime(End))
+      :- blawx_initially(mental_situation(X)), blawx_becomes(-mental_situation(X),datetime(End)),
+      blawx_not_interrupted(datetime(bot),mental_situation(X),datetime(End)).\nblawx_during(datetime(Start),mental_situation(X),datetime(eot))
+      :- blawx_ultimately(mental_situation(X)), blawx_becomes(-mental_situation(X),datetime(Start)),
+      blawx_not_interrupted(datetime(Start),mental_situation(X),datetime(eot)).\nblawx_during(datetime(bot),mental_situation(X),datetime(eot))
+      :- blawx_initially(mental_situation(X)), blawx_ultimately(mental_situation(X)),
+      blawx_becomes(-mental_situation(X),datetime(Start)), blawx_not_interrupted(datetime(bot),mental_situation(X),datetime(eot)).\nblawx_during(datetime(Start),-mental_situation(X),datetime(End))
+      :- blawx_becomes(-mental_situation(X),datetime(Start)), blawx_becomes(mental_situation(X),datetime(End)),
+      Start #< End, blawx_not_interrupted(datetime(Start),-mental_situation(X),datetime(End)).\nblawx_during(datetime(bot),-mental_situation(X),datetime(End))
+      :- blawx_initially(-mental_situation(X)), blawx_becomes(mental_situation(X),datetime(End)),
+      blawx_not_interrupted(datetime(bot),-mental_situation(X),datetime(End)).\nblawx_during(datetime(Start),-mental_situation(X),datetime(eot))
+      :- blawx_ultimately(-mental_situation(X)), blawx_becomes(mental_situation(X),datetime(Start)),
+      blawx_not_interrupted(datetime(Start),-mental_situation(X),datetime(eot)).\nblawx_during(datetime(bot),-mental_situation(X),datetime(eot))
+      :- blawx_initially(-mental_situation(X)), blawx_ultimately(-mental_situation(X)),
+      blawx_becomes(-mental_situation(X),datetime(Start)), blawx_not_interrupted(datetime(bot),-mental_situation(X),datetime(eot)).\n\naccording_to(sec_1__subsec_1__para_d__subpara_ii_section,guilty,Subject)
+      :- sexual_intercourse(Act),\nperson(Subject),\nperson(Victim),\nvictim(Act,Victim),\nalleged_offender(Act,Subject),\nmental_situation(Victim).\n\n%
+      BLAWX CHECK DUPLICATES\nholds(sec_1__subsec_1__para_d__subpara_ii_section,guilty,Subject)
+      :- according_to(sec_1__subsec_1__para_d__subpara_ii_section,guilty,Subject).\n\n%
+      BLAWX CHECK DUPLICATES\n  guilty(Subject) :- holds(sec_1__subsec_1__para_d__subpara_ii_section,guilty,Subject)."
+- model: blawx.workspace
+  pk: 77
+  fields:
+    ruledoc: 7
+    workspace_name: sec_1__subsec_1__para_d__subpara_iii_section
+    xml_content: <xml xmlns="https://developers.google.com/blockly/xml"><block type="unattributed_fact"
+      id="q%r[-CFi(X,XCDfG6{Bs" x="130" y="-544"><statement name="statements"><block
+      type="new_attribute_declaration" id="iwycX-Bfr~Bh4rs}2ZIM"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person" attribute_type="boolean"></mutation><field name="category_name">person</field><field
+      name="attribute_name">will_overridden</field><field name="attribute_type">boolean</field><field
+      name="order">ov</field><field name="prefix"></field><field name="first_element">object</field><field
+      name="infix">'s attribute name is</field><field name="second_element">value</field><field
+      name="postfix">'s will was overridden</field></block></statement></block><block
+      type="attributed_rule" id="(NpkQ%5l(FyQ$s:Lh^{8" x="120" y="-395"><field name="defeasible">FALSE</field><field
+      name="inapplicable">FALSE</field><statement name="conditions"><block type="new_object_category"
+      id="|@:s},G8.wL.R/`yZLXS"><mutation xmlns="http://www.w3.org/1999/xhtml" category_name="sexual_intercourse"></mutation><field
+      name="category_name">sexual_intercourse</field><value name="object"><block type="variable"
+      id="f1g.,j=uY+`seAD*5ko$"><field name="variable_name">Event</field></block></value><next><block
+      type="new_object_category" id="udU7a*ak`Lip8=1tA_y4"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person"></mutation><field name="category_name">person</field><value
+      name="object"><block type="variable" id="sgb)~oHbZV_H##%|p[tq"><field name="variable_name">Subject</field></block></value><next><block
+      type="new_object_category" id="j$mWeuq+wUDOr$Djs{{Z"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      category_name="person"></mutation><field name="category_name">person</field><value
+      name="object"><block type="variable" id="REi.db.y-#]4`DIyWtt/"><field name="variable_name">Victim</field></block></value><next><block
+      type="attribute_selector" id="nIj@q:0-cv!!wwa9I-tb"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="victim" attributetype="person" attributeorder="ov"></mutation><field
+      name="prefix">the victim in</field><field name="infix">is</field><field name="postfix"></field><value
+      name="first_element"><block type="variable" id="!I]P[DN_DyTa`iErpZ!/"><field
+      name="variable_name">Event</field></block></value><value name="second_element"><block
+      type="variable" id="+c/~Z|0gcZRM|B6?K6Bb"><field name="variable_name">Victim</field></block></value><next><block
+      type="attribute_selector" id="oj-+FmvcQ09T`vnGvzZJ"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="alleged_offender" attributetype="person" attributeorder="ov"></mutation><field
+      name="prefix"> the alleged offender in</field><field name="infix">is</field><field
+      name="postfix"></field><value name="first_element"><block type="variable" id="nMF,SqSBP!Mr)[,!^ptj"><field
+      name="variable_name">Event</field></block></value><value name="second_element"><block
+      type="variable" id="^Ze3N:BcWZO=1K3C^XMG"><field name="variable_name">Subject</field></block></value><next><block
+      type="unary_attribute_selector" id="}(YqDCQcf/nEz!:%iQr+"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="will_overridden" attributetype="boolean"></mutation><field name="prefix"></field><field
+      name="postfix">'s will was overridden</field><value name="first_element"><block
+      type="variable" id="?Q{!4+Opc.7NnbWnUEZ1"><field name="variable_name">Victim</field></block></value></block></next></block></next></block></next></block></next></block></next></block></statement><value
+      name="source"><block type="doc_selector" id="5Ju~0]BJ@ZC7wmL$QaPQ"><mutation
+      xmlns="http://www.w3.org/1999/xhtml" section_reference="sec_1__subsec_1__para_d__subpara_iii_section"></mutation><field
+      name="doc_part_name">CC 1.1.d.iii</field></block></value><statement name="conclusion"><block
+      type="unary_attribute_selector" id="VpZO?!4YCJe5;|`B;w-4"><mutation xmlns="http://www.w3.org/1999/xhtml"
+      attributename="guilty" attributetype="boolean"></mutation><field name="prefix"></field><field
+      name="postfix">has committed a crime of sexual assault</field><value name="first_element"><block
+      type="variable" id="(j+VL5$g{2|7=BvAiUOY"><field name="variable_name">Subject</field></block></value></block></statement></block></xml>
+    scasp_encoding: "blawx_attribute(person,will_overridden,boolean).\nblawx_attribute_nlg(will_overridden,not_applicable,\"\",not_applicable,\"'s
+      will was overridden\").\n:- dynamic will_overridden/1.\n#pred will_overridden(X)
+      :: '@(X) \\'s will was overridden'.\n#pred holds(user,will_overridden,X) ::
+      'it is provided as a fact that @(X) \\'s will was overridden'.\n#pred holds(user,-will_overridden,X)
+      :: 'it is provided as a fact that it is not the case that @(X) \\'s will was
+      overridden'.\n#pred holds(Z,will_overridden,X) :: 'the conclusion in @(Z) that
+      @(X) \\'s will was overridden holds'.\n#pred holds(Z,-will_overridden,X) ::
+      'the conclusion in @(Z) that it is not the case that @(X) \\'s will was overridden
+      holds'.\n#pred according_to(Z,will_overridden,X) :: 'according to @(Z), @(X)
+      \\'s will was overridden'.\n#pred according_to(Z,-will_overridden,X) :: 'according
+      to @(Z), it is not the case that @(X) \\'s will was overridden'.\n#pred blawx_defeated(Z,will_overridden,X)
+      :: 'the conclusion in @(Z) that @(X) \\'s will was overridden is defeated'.\n#pred
+      blawx_defeated(Z,-will_overridden,X) :: 'the conclusion in @(Z) that @(X) \\'s
+      will was overridden is defeated'.\n#pred blawx_initially(will_overridden(X))
+      :: 'that @(X) \\'s will was overridden holds initially'.\n#pred blawx_initially(-will_overridden(X))
+      :: 'that it is not the case that @(X) \\'s will was overridden holds initially'.\n#pred
+      blawx_ultimately(will_overridden(X)) :: 'that @(X) \\'s will was overridden
+      holds ultimately'.\n#pred blawx_ultimately(-will_overridden(X)) :: 'that it
+      is not the case that @(X) \\'s will was overridden holds ultimately'.\n#pred
+      blawx_as_of(will_overridden(X),T) :: 'that @(X) \\'s will was overridden holds
+      at @(T)'.\n#pred blawx_as_of(-will_overridden(X),T) :: 'that it is not the case
+      that @(X) \\'s will was overridden holds at @(T)'.\n#pred blawx_during(T1,will_overridden(X),T2)
+      :: 'that @(X) \\'s will was overridden held between @(T1) and @(T2)'.\n#pred
+      blawx_during(T1,-will_overridden(X),T2) :: 'that it is not the case that @(X)
+      \\'s will was overridden held between @(T1) and @(T2)'.\n#pred blawx_becomes(will_overridden(X),T)
+      :: 'that @(X) \\'s will was overridden became true at @(T)'.\n#pred blawx_becomes(-will_overridden(X),T)
+      :: 'that it is not the case that @(X) \\'s will was overridden became true at
+      @(T)'.\nblawx_as_of(will_overridden(X),datetime(Time)) :- blawx_becomes(will_overridden(X),datetime(BeforeT)),
+      not blawx_becomes(-will_overridden(X), datetime(BetweenT)), BeforeT #< Time,BeforeT
+      #< BetweenT, BetweenT #< Time.\nblawx_as_of(will_overridden(X),datetime(Time))
+      :- blawx_initially(will_overridden(X)), not blawx_becomes(-will_overridden(X),
+      datetime(BetweenT)), BetweenT #< Time.\nblawx_during(datetime(Start),will_overridden(X),datetime(End))
+      :- blawx_becomes(will_overridden(X),datetime(Start)), not blawx_becomes(-will_overridden(X),datetime(BeforeEnd)),
+      blawx_becomes(-will_overridden(X),datetime(End)), BeforeEnd #< End, Start #<
+      End.\nblawx_during(datetime(bot),will_overridden(X),datetime(End)) :- blawx_initially(will_overridden(X)),
+      not blawx_becomes(-will_overridden(X),datetime(BeforeEnd)), blawx_becomes(-will_overridden(X),datetime(End)),
+      BeforeEnd #< End.\nblawx_during(datetime(Start),will_overridden(X),datetime(eot))
+      :- blawx_becomes(will_overridden(X),datetime(Start)), not blawx_becomes(-will_overridden(X),datetime(AfterStart)),
+      blawx_ultimately(will_overridden(X)), AfterStart #> Start.\nblawx_as_of(-will_overridden(X),datetime(Time))
+      :- blawx_becomes(-will_overridden(X),datetime(BeforeT)), not blawx_becomes(will_overridden(X),
+      datetime(BetweenT)), BeforeT #< Time,BeforeT #< BetweenT, BetweenT #< Time.\nblawx_as_of(-will_overridden(X),datetime(Time))
+      :- blawx_initially(-will_overridden(X)), not blawx_becomes(will_overridden(X),
+      datetime(BetweenT)), BetweenT #< Time.\nblawx_during(datetime(Start),-will_overridden(X),datetime(End))
+      :- blawx_becomes(-will_overridden(X),datetime(Start)), not blawx_becomes(will_overridden(X),datetime(BeforeEnd)),
+      blawx_becomes(will_overridden(X),datetime(End)), BeforeEnd #< End, Start #<
+      End.\nblawx_during(datetime(bot),-will_overridden(X),datetime(End)) :- blawx_initially(-will_overridden(X)),
+      not blawx_becomes(will_overridden(X),datetime(BeforeEnd)), blawx_becomes(will_overridden(X),datetime(End)),
+      BeforeEnd #< End.\nblawx_during(datetime(Start),-will_overridden(X),datetime(eot))
+      :- blawx_becomes(-will_overridden(X),datetime(Start)), not blawx_becomes(will_overridden(X),datetime(AfterStart)),
+      blawx_ultimately(-will_overridden(X)), AfterStart #> Start.\n\naccording_to(sec_1__subsec_1__para_d__subpara_iii_section,guilty,Subject)
+      :- sexual_intercourse(Event),\nperson(Subject),\nperson(Victim),\nvictim(Event,Victim),\nalleged_offender(Event,Subject),\nwill_overridden(Victim).\n\n%
+      BLAWX CHECK DUPLICATES\nholds(sec_1__subsec_1__para_d__subpara_iii_section,guilty,Subject)
+      :- according_to(sec_1__subsec_1__para_d__subpara_iii_section,guilty,Subject).\n\n%
+      BLAWX CHECK DUPLICATES\n  guilty(Subject) :- holds(sec_1__subsec_1__para_d__subpara_iii_section,guilty,Subject)."
+- model: blawx.workspace
+  pk: 78
+  fields:
+    ruledoc: 7
+    workspace_name: sec_1__subsec_1__para_d_section
+    xml_content: ''
+    scasp_encoding: ''
+- model: blawx.blawxtest
+  pk: 28
+  fields:
+    ruledoc: 7
+    test_name: guilty_sexual_assault
+    xml_content: <xml xmlns="https://developers.google.com/blockly/xml"><block type="query"
+      id="i+Cl~|bpZ/Gz9g.Q9KlY" x="193" y="135"><statement name="query"><block type="unary_attribute_selector"
+      id="C2K:^bM/?bFb++(v(uc+"><mutation xmlns="http://www.w3.org/1999/xhtml" attributename="guilty"
+      attributetype="boolean"></mutation><field name="prefix"></field><field name="postfix">has
+      committed a crime of sexual assault</field><value name="first_element"><block
+      type="variable" id="`H3AFLPxrA[6ChPC))^M"><field name="variable_name">Culprit</field></block></value></block></statement></block></xml>
+    scasp_encoding: ?- guilty(Culprit).
+    tutorial: ''
+    view: '[''view_att_guilty'']'
+    fact_scenario: '{''facts'': [{''from_ontology'': False, ''type'': ''true'', ''category'':
+      ''person'', ''object'': ''paul''}, {''from_ontology'': False, ''type'': ''true'',
+      ''category'': ''sexual_intercourse'', ''object'': ''event1''}, {''from_ontology'':
+      False, ''type'': ''true'', ''attribute'': ''alleged_offender'', ''object'':
+      ''event1'', ''value'': ''paul''}, {''from_ontology'': False, ''type'': ''true'',
+      ''category'': ''person'', ''object'': ''eve''}, {''from_ontology'': False, ''type'':
+      ''true'', ''attribute'': ''victim'', ''object'': ''event1'', ''value'': ''eve''},
+      {''from_ontology'': False, ''type'': ''true'', ''attribute'': ''violence'',
+      ''object'': ''event1''}]}'
+- model: blawx.blawxtest
+  pk: 29
+  fields:
+    ruledoc: 7
+    test_name: test1
+    xml_content: <xml xmlns="https://developers.google.com/blockly/xml"><block type="query"
+      id="i+Cl~|bpZ/Gz9g.Q9KlY" x="190" y="140"><statement name="query"><block type="unary_attribute_selector"
+      id="C2K:^bM/?bFb++(v(uc+"><mutation xmlns="http://www.w3.org/1999/xhtml" attributename="guilty"
+      attributetype="boolean"></mutation><field name="prefix"></field><field name="postfix">has
+      committed a crime of sexual assault</field><value name="first_element"><block
+      type="variable" id="`H3AFLPxrA[6ChPC))^M"><field name="variable_name">Person</field></block></value></block></statement></block></xml>
+    scasp_encoding: ?- guilty(Person).
+    tutorial: ''
+    view: ''
+    fact_scenario: ''
