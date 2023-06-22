@@ -30,7 +30,7 @@ delito(d01, D), penaTotal(D, [A, B, C],[X, Y, Z]).
 ```
 d01 is the variable that corresponds to the defendant whose total penalty we want to find out based on the input values expressed in the file [`delitos.database.pl`](main/delitos.database.pl). The terminal shows us the query we have performed with the new variables assigned, the number of answers found and the time it took to find them, the justification tree and lastly, the model with the facts and logical rules that have been involved and the result values.
 
-To execute the system in the [s(CASP) Playground](https://ciao-lang.org/Playground/scasp.html), simply add the information of the three files has been and once it is loaded,
+To execute the system in the [s(CASP) Playground](https://ciao-lang.org/Playground/scasp.html), simply add the information of the three .pl files and once it is loaded,
 the query should be typed the same way as we did locally.
 
 ## Testing Blawx
