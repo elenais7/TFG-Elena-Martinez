@@ -6,9 +6,9 @@ Through the Prolog-derived language `s(CASP)` and the `Blawx` tool we have imple
 
 The second, although more specific, also results in an intuitive interface through which we can test certain input values and observe the results. We have been fortunate to have the help of the system’s creator Jason Morris, who has always been willing to answer any questions and address any problems that may have arisen during the project. `Blawx` is an interesting and useful interface that also provides a new way of modularizing the legislative code and facilitates the medium user to understand how it works and use it.
 
-## Local installation of `s(CASP)`
+## Local installation of s(CASP)
 
-Once the requirementes expressed in the [installation manual for `ciao`](https://ciao-lang.org/install.html) are met, type the following one-liner in an sh-compatible terminal:
+Once the requirementes expressed in the [installation manual for ciao](https://ciao-lang.org/install.html) are met, type the following one-liner in an sh-compatible terminal:
 ```
 curl https://ciao-lang.org/boot -sSfL | sh
 ```
@@ -30,7 +30,7 @@ delito(d01, D), penaTotal(D, [A, B, C],[X, Y, Z]).
 ```
 d01 is the variable that corresponds to the defendant whose total penalty we want to find out based on the input values expressed in the file [`delitos.database.pl`](main/delitos.database.pl). The terminal shows us the query we have performed with the new variables assigned, the number of answers found and the time it took to find them, the justification tree and lastly, the model with the facts and logical rules that have been involved and the result values.
 
-To execute the system in the [`s(CASP)` Playground](https://ciao-lang.org/Playground/scasp.html), simply add the information of the three files has been and once it is loaded,
+To execute the system in the [s(CASP) Playground](https://ciao-lang.org/Playground/scasp.html), simply add the information of the three files has been and once it is loaded,
 the query should be typed the same way as we did locally.
 
 ## Testing Blawx
@@ -39,7 +39,7 @@ Once the project [`crimes_committed.blawx`](crimes_committed.blawx) is loaded in
 
 Next, to select the known facts that will function as input values, we use the drop-down menu where all possible attributes are presented. Once selected, Blawx enables us to determine the fact as true or false and to enter the variable we need. Once the facts needed for our specific situation are stated, we can run the program, and subsequently, it will show the output with the corresponding answers (or the absence of them).
 
-To see further details and explanations check the [project report](TFG Elena Martínez.pdf).
+To see further details and explanations check the [project report](https://github.com/elenais7/TFG-Elena-Martinez/blob/b3542d7c385b7ee93e56e9a220fbe0d383377fda/TFG%20Elena%20Mart%C3%ADnez.pdf).
 
 
 
